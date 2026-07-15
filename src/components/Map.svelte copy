@@ -1,0 +1,305 @@
+<script>
+    import maplibregl from 'maplibre-gl';
+    import { onMount, onDestroy, createEventDispatcher } from 'svelte';
+    import "maplibre-gl/dist/maplibre-gl.css";
+    import { DATA_PATHS, CANDIDATE_PALETTES } from '../lib/config.js';
+    import ResetControl from '../lib/reset.js';
+    import { getParams, fetchJSON } from '../lib/params.js';
+    import { safeFC, fitToData } from '../lib/geo.js';
+    import {
+      normalizeName, buildUniquePalettes, resolveConfiguredPalette,
+      fillForFeatureByMargin, middleColorForCandidate, gradientForName
+    } from '../lib/colors.js';
+    import { Protocol } from "pmtiles";
+    import basemap from "../data/strib-basemap.json";
+  
+    const dispatcher = createEventDispatcher();
+
+    // Build a normalized order array from CANDIDATE_PALETTES insertion order
+    const CONFIG_ORDER = Object.keys(CANDIDATE_PALETTES).map((n) => normalizeName(n));
+
+    function orderWinnersByConfig(winners) {
+      // winners is an array of original-case names
+      const byNorm = new Map(winners.map((w) => [normalizeName(w), w]));
+      const out = [];
+
+      // 1) push winners that appear in config, in that exact order
+      for (const norm of CONFIG_ORDER) {
+        const orig = byNorm.get(norm);
+        if (orig) {
+          out.push(orig);
+          byNorm.delete(norm);
+        }
+      }
+
+      // 2) append any remaining winners (not in config) alphabetically
+      const rest = Array.from(byNorm.values()).sort();
+      return out.concat(rest);
+    }
+  
+    let mapElex;
+    let map = null;
+    let popup = null;
+  
+    let paletteMap = new Map();
+    let legendWinners = [];
+  
+    function waitForMapLoad(m) {
+      return new Promise((resolve) => {
+        if (m && m.isStyleLoaded && m.isStyleLoaded()) return resolve();
+        m.once('load', () => resolve());
+      });
+    }
+  
+    function collectCandidates(precinctsFC) {
+      const set = new Set();
+      for (const feat of precinctsFC.features) {
+        const p = feat.properties || {};
+        if (p.winner && p.winner !== 'Unknown') set.add(p.winner);
+        let arr = [];
+        try { arr = Array.isArray(p.vote_obj_json) ? p.vote_obj_json : JSON.parse(p.vote_obj_json); } catch { arr = []; }
+        (arr || []).slice(0,3).forEach(r => { if (r?.cand_name) set.add(r.cand_name); });
+      }
+      return Array.from(set).sort();
+    }
+  
+    function resetView() {
+      if (!map) return;
+      const { ward } = getParams();
+      const wards = map.getSource('wards')?._data;
+      const precincts = map.getSource('precincts')?._data;
+      if (wards && precincts) fitToData(map, { wardNum: ward, wards, precincts });
+    }
+  
+    async function buildMap() {
+      const protocol = new Protocol();
+      maplibregl.addProtocol("pmtiles", protocol.tile);
+
+      const { city, choice, zoom, ward } = getParams();
+  
+      map?.remove(); map = null;
+      popup?.remove(); popup = null;
+  
+      map = new maplibregl.Map({
+        container: mapElex,
+        style: basemap,
+        // @ts-ignore
+        attributionControl: false,
+        dragRotate: false,
+        pitchWithRotate: false
+      });
+  
+      map.on('error', (e) => console.error('MapLibre error:', e && e.error));
+      map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
+      map.addControl(new ResetControl(resetView), 'top-left');
+      map.scrollZoom.disable();
+      map.touchZoomRotate.disable();
+  
+      const precinctURL = DATA_PATHS[city].choices[choice];
+      const wardsURL = DATA_PATHS[city].wards;
+      const dataPromise = Promise.all([fetchJSON(precinctURL), fetchJSON(wardsURL)]);
+      await waitForMapLoad(map);
+      const [rawPrecincts, wards] = await dataPromise;
+  
+      const precinctsFC = safeFC(rawPrecincts, 'Precinct GeoJSON');
+  
+      // Build palette map (your overrides first)
+      const candidates = collectCandidates(precinctsFC).filter(n => n && n !== 'Unknown');
+      const usedSeedKeys = new Set();
+      paletteMap = new Map();
+  
+      for (const [rawName, val] of Object.entries(CANDIDATE_PALETTES)) {
+        const norm = normalizeName(rawName);
+        const pal = resolveConfiguredPalette(val);
+        if (pal) {
+          paletteMap.set(norm, pal);
+          if (typeof val === 'string') usedSeedKeys.add(val);
+        }
+      }
+  
+      const remaining = candidates
+        .map(n => ({ raw: n, norm: normalizeName(n) }))
+        .filter(({norm}) => !paletteMap.has(norm));
+      const extraPalettes = buildUniquePalettes(remaining.length, Array.from(usedSeedKeys));
+      remaining.forEach((c, i) => paletteMap.set(c.norm, extraPalettes[i]));
+  
+      // Colorize winners
+      const winnersSet = new Set();
+      for (const feat of precinctsFC.features) {
+        const p = feat.properties || {};
+        const w = p.winner ?? 'Unknown'; 
+        feat.properties.__fill = fillForFeatureByMargin(p, paletteMap);
+        if (w && w !== 'Unknown') winnersSet.add(w);
+      }
+      const precincts = precinctsFC;
+      legendWinners = orderWinnersByConfig(Array.from(winnersSet));
+  
+      //main data layers
+      map.addSource('precincts', { type: 'geojson', data: precincts, generateId: true });
+      map.addSource('wards', { type: 'geojson', data: wards });
+  
+      map.addLayer({ id: 'precinct-fill', type: 'fill', source: 'precincts', paint: { 'fill-color': ['get', '__fill'], 'fill-opacity': 0.95 } }, 'roads_runway');
+      map.addLayer({ id: 'precinct-outline', type: 'line', source: 'precincts', paint: { 'line-color': '#ffffff', 'line-width': 0.4 } }, 'roads_runway');
+      map.addLayer({ id: 'wards-line', type: 'line', source: 'wards', paint: { 'line-color': '#ffffff', 'line-width': 2 } }, 'roads_runway');
+
+      map.addLayer({
+        id: 'precinct-hover-outline',
+        type: 'line',
+        source: 'precincts',
+        paint: {
+          'line-color': '#000',
+          'line-width': 1,
+          'line-opacity': [
+            'case',
+            ['boolean', ['feature-state', 'hover'], false],
+            1,  
+            0 
+          ]
+        }
+      });
+
+      let hoveredId = null;
+
+      const onMove = (e) => {
+        if (!e.features?.length) return;
+
+        const f = e.features[0];
+        const id = f.id; // present because of generateId:true
+
+        // clear previous
+        if (hoveredId != null) {
+          map.setFeatureState({ source: 'precincts', id: hoveredId }, { hover: false });
+        }
+        // set new
+        hoveredId = id;
+        map.setFeatureState({ source: 'precincts', id }, { hover: true });
+
+        // (your existing popup logic can still run here)
+        showPopup(e);
+      };
+
+      const onLeave = () => {
+        popup?.remove();
+        if (hoveredId != null) {
+          map.setFeatureState({ source: 'precincts', id: hoveredId }, { hover: false });
+          hoveredId = null;
+        }
+        map.getCanvas().style.cursor = '';
+      };
+
+      map.on('mousemove', 'precinct-fill', onMove);
+      map.on('mouseleave', 'precinct-fill', onLeave);
+
+      map.on('click', 'precinct-fill', (e) => { onMove(e); });
+
+
+
+      // Fit + optional zoom
+      const params2 = getParams();
+      fitToData(map, { wardNum: params2.ward, wards, precincts });
+      if (typeof params2.zoom === 'number' && !Number.isNaN(params2.zoom)) {
+        const c = map.getCenter();
+        map.setZoom(params2.zoom); map.setCenter(c);
+      }
+  
+      // ---- Popup ----
+      popup = new maplibregl.Popup({ closeButton: false, closeOnClick: false, maxWidth: '360px', className: 'rcv-popup' });
+  
+      const showPopup = (e) => {
+        if (!e.features?.length) return;
+        const f = e.features[0];
+        const p = f.properties || {};
+  
+        let top3 = [];
+        try { top3 = Array.isArray(p.vote_obj_json) ? p.vote_obj_json : JSON.parse(p.vote_obj_json); } catch { top3 = []; }
+        top3 = (top3 || []).slice(0, 3);
+  
+        const name = p.SHORTLABEL || p.PCTNAME || p.VTDID || 'Precinct';
+  
+        const rows = top3.map((r) => {
+          const dotColor = middleColorForCandidate(r.cand_name, paletteMap);
+          return `
+            <tr>
+              <td class="cname">
+                <span
+                  class="dot"
+                  style="display:inline-block;width:10px;height:10px;border-radius:50%;
+                         background-color:${dotColor};margin-right:6px;border:1px solid rgba(0,0,0,.12);"
+                ></span>
+                ${r.cand_name}
+              </td>
+              <td class="cnum">${Number(r.votes).toLocaleString()}</td>
+              <td>&nbsp;</td>
+              <td class="cpct">${Number(r.votes_pct).toFixed(1)}%</td>
+            </tr>
+          `;
+        }).join('');
+  
+        popup.setLngLat(e.lngLat).setHTML(`
+          <div class="rcv-head">Choice ${choice} | ${name}</div>
+          <hr />
+          <table class="rcv-table">
+            <colgroup>
+              <col style="width:58%" />
+              <col style="width:20%" />
+              <col style="width:2%" />
+              <col style="width:16%" />
+            </colgroup>
+            <thead><tr><th>Candidate</th><th style='text-align:right;'>Votes</th><th>&nbsp;</th><th style='text-align:right;'>%</th></tr></thead>
+            <tbody>${rows}</tbody>
+          </table>
+        `).addTo(map);
+      };
+  
+      map.on('mousemove', 'precinct-fill', showPopup);
+      map.on('mouseleave', 'precinct-fill', () => popup?.remove());
+      map.on('click', 'precinct-fill', showPopup);
+      map.on('mouseenter', 'precinct-fill', () => { map.getCanvas().style.cursor = 'pointer'; });
+      map.on('mouseleave', 'precinct-fill', () => { map.getCanvas().style.cursor = ''; });
+  
+      // ---- Notify parent for legend ----
+       dispatcher('legendupdate', {
+         winners: legendWinners,
+         gradient: (name) => gradientForName(name, paletteMap), // keep if you still want it elsewhere
+         ramp: (name) => paletteMap.get(normalizeName(name)) || ['#ddd','#bbb','#999','#777','#444']
+       });
+    }
+  
+    onMount(() => {
+      window.addEventListener('error', (e) => console.error(e));
+      buildMap().catch((e) => console.error('buildMap error:', e));
+    });
+    onDestroy(() => { map?.remove(); popup?.remove(); });
+  </script>
+
+  <style>
+    .wrapper { position: relative; width: 100%; height: 100vh; max-height: 100dvh; background: #f9fafb; font-family: "graphik-regular" !important; }
+    .maplibregl-ctrl-top-right { margin-top: 12px; margin-right: 12px; }
+    .maplibregl-ctrl-group > button.rcv-reset-btn { font: inherit; padding: 0 8px; background: #fff; border: none; cursor: pointer; height: 30px; }
+  
+    .mapboxgl-popup, .maplibregl-popup { z-index: 5; }
+    :global(.rcv-popup .maplibregl-popup-content) {
+      padding: 10px 12px;
+      font-family: "graphik-regular" !important;
+      font-size:13px;
+      max-width: none; width: 260px;
+    }
+    .rcv-head { font-family: "graphik-regular"; font-size:13px; }
+    :global(.maplibregl-popup) {
+      z-index: 10000 !important;
+    }
+    :global(.rcv-popup .rcv-table) {
+      width: 95%; table-layout: fixed; border-collapse: collapse; font-variant-numeric: tabular-nums; font-family: "graphik-regular";
+    }
+    :global(.rcv-popup .rcv-table thead th) {
+      text-align: left; font-size: 11px; color: #333; font-weight: 600; padding: 1px 0 6px; font-family: "graphik-regular";
+    }
+    :global(.rcv-popup .rcv-table td) { padding: 2px 2px; font-size: 13px; vertical-align: middle; }
+    :global(.rcv-popup .rcv-table td.cname) { white-space: normal; overflow-wrap: anywhere; }
+    :global(.rcv-popup .rcv-table td.cnum) { text-align: right !important; color: #333; }
+    :global(.rcv-popup .rcv-table td.cpct) { text-align: right !important; color: #333; }
+    :global(.rcv-popup .dot) { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: middle; border: 1px solid rgba(0,0,0,.12); }
+  </style>
+  
+  <div class="wrapper" bind:this={mapElex}></div>
+  
