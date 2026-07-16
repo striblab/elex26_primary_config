@@ -5,7 +5,6 @@
   let boundaries = '1';
   let isolate = '0';
   let interactive = '1';
-  let shading = '0';
   let height = '600';
   let hed = '';
   let chatter = '';
@@ -16,8 +15,16 @@
 
   const baseUrl = 'https://static.startribune.com/news/projects/all/elex26_primary/index.html';
 
-  // Reactively rebuild the URL any time a param changes
-  $: mapUrl = (() => {
+  // GOP races get shading 4, DFL races get shading 5, based on office code prefix (r.../d...)
+  $: selectedRace = elections.find((e) => String(e.index) === String(district));
+  $: shading = selectedRace?.office?.startsWith('r')
+    ? '4'
+    : selectedRace?.office?.startsWith('d')
+      ? '5'
+      : '0';
+
+  // Reactively rebuild the draft URL any time a param changes
+  $: draftUrl = (() => {
     const params = new URLSearchParams({
       office: district,
       overlay: boundaries,
@@ -34,6 +41,13 @@
     return `${baseUrl}?${params}`;
   })();
 
+  // The URL actually loaded into the preview/URL box, only updated on Generate
+  let mapUrl = '';
+
+  function generate() {
+    mapUrl = draftUrl;
+  }
+
   let copied = false;
   async function copyUrl() {
     try {
@@ -49,17 +63,24 @@
 <main>
   <header>
     <h1>StribLab Primaries 2026 Mapifier</h1>
-    <p>Pick a race and map settings. The preview and URL below update live — copy the URL to embed it in a story.</p>
+    <p>Pick a race and map settings, then click Generate to build a preview and shareable URL.</p>
     <p class="disclaimer">Internal use only. Don't share generated links publicly; embed on article pages instead.</p>
   </header>
 
   <div class="layout">
     <div class="preview-pane">
       <div class="preview-frame" style="height: {height}px;">
-        {#if district !== ''}
+        {#if mapUrl !== ''}
           <iframe title="Map preview" src={mapUrl}></iframe>
         {:else}
-          <div class="empty-state">Select a contest to see a preview</div>
+          <div class="empty-state">Select a contest and click Generate to see a preview</div>
+        {/if}
+      </div>
+
+      <div class="generate-row">
+        <button type="button" class="generate-btn" on:click={generate} disabled={district === ''}>Generate</button>
+        {#if mapUrl !== '' && mapUrl !== draftUrl}
+          <span class="pending-hint">Settings changed — click Generate to update the preview</span>
         {/if}
       </div>
 
@@ -67,7 +88,7 @@
         <label for="urlOut">Generated URL</label>
         <div class="url-row">
           <input id="urlOut" type="text" readonly value={mapUrl} on:focus={(e) => e.target.select()} />
-          <button type="button" on:click={copyUrl}>{copied ? 'Copied!' : 'Copy'}</button>
+          <button type="button" on:click={copyUrl} disabled={mapUrl === ''}>{copied ? 'Copied!' : 'Copy'}</button>
         </div>
       </div>
     </div>
@@ -129,14 +150,6 @@
           <label><input type="radio" value="1" bind:group={search} /> Enable</label>
           <label><input type="radio" value="0" bind:group={search} /> Disable</label>
         </div>
-      </div>
-
-      <div class="field">
-        <label>Result shading mode</label>
-        <select bind:value={shading}>
-          <option value="4">GOP primary shading</option>
-          <option value="5">DFL primary shading</option>
-        </select>
       </div>
 
       <div class="field">
@@ -233,6 +246,39 @@
     font-size: 0.9rem;
   }
 
+  .generate-row {
+    margin-top: 14px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .generate-btn {
+    padding: 9px 18px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+
+  .generate-btn:hover:not(:disabled) {
+    opacity: 0.9;
+  }
+
+  .generate-btn:disabled {
+    background: #aaa;
+    cursor: not-allowed;
+  }
+
+  .pending-hint {
+    font-size: 0.8rem;
+    color: #b5651d;
+  }
+
   .url-box {
     margin-top: 14px;
   }
@@ -271,6 +317,11 @@
 
   .url-row button:hover {
     opacity: 0.9;
+  }
+
+  .url-row button:disabled {
+    background: #aaa;
+    cursor: not-allowed;
   }
 
   .controls-pane {
