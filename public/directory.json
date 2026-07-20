@@ -1,5 +1,0 @@
-{"races":[
-{"index":0,"office":"rgov","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"../store/rgov-results-geo.json","overlay":"counties.json","name":"GOP Gov Primary"},
-{"index":1,"office":"dgov","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"../store/dgov-results-geo.json","overlay":"counties.json","name":"DFL Gov Primary"},
-{"index":2,"office":"rsen","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"../store/rsen-results-geo.json","overlay":"counties.json","name":"GOP Sen Primary"},
-{"index":3,"office":"dsen","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"../store/dsen-results-geo.json","overlay":"counties.json","name":"DFL Sen Primary"}]}

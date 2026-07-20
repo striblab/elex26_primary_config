@@ -43,9 +43,11 @@
 
   // The URL actually loaded into the preview/URL box, only updated on Generate
   let mapUrl = '';
+  let generatedRace = null;
 
   function generate() {
     mapUrl = draftUrl;
+    generatedRace = selectedRace;
   }
 
   let copied = false;
@@ -91,6 +93,20 @@
           <button type="button" on:click={copyUrl} disabled={mapUrl === ''}>{copied ? 'Copied!' : 'Copy'}</button>
         </div>
       </div>
+
+      {#if generatedRace}
+        <div class="data-links">
+          <label>Underlying data files</label>
+          <div class="data-links-row">
+            {#if generatedRace.precincts}
+              <a href={generatedRace.precincts} target="_blank" rel="noopener">GeoJSON</a>
+            {/if}
+            {#if generatedRace.csv}
+              <a href={generatedRace.csv} target="_blank" rel="noopener">CSV</a>
+            {/if}
+          </div>
+        </div>
+      {/if}
     </div>
 
     <div class="controls-pane">
@@ -281,6 +297,33 @@
 
   .url-box {
     margin-top: 14px;
+  }
+
+  .data-links {
+    margin-top: 14px;
+  }
+
+  .data-links label {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .data-links-row {
+    display: flex;
+    gap: 14px;
+  }
+
+  .data-links-row a {
+    color: var(--accent);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .data-links-row a:hover {
+    text-decoration: underline;
   }
 
   .url-box label {

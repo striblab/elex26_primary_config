@@ -1,30 +1,29 @@
-GOP GOV
-http://localhost:5173/?office=0&overlay=1&interactive=1&shading=4&title=&chatter=&height=600&text=0&clicky=1&search=1
-
-DFL GOV
-http://localhost:5173/?office=1&overlay=1&interactive=1&shading=5&title=&chatter=&height=600&text=0&clicky=1&search=1
-
-GOP GSEN
-http://localhost:5173/?office=2&overlay=1&interactive=1&shading=4&title=&chatter=&height=600&text=0&clicky=1&search=1
-
-DFL SEN
-http://localhost:5173/?office=3&overlay=1&interactive=1&shading=5&title=&chatter=&height=600&text=0&clicky=1&search=1
+--RACES
+--COLORS
+--PROCESS:COMMIT
+--ARCEMBEDS
+--PROCESS:README
 
 
+# Minnesota primaries 2026 precinct map generator
 
-# Elections 2026 precinct map generator
+## Run the R script
 
-This is a template for building Svelte apps at the Star Tribune. It's intended to replace the old svelte+webpack template.
+
+
+## Review the outputs
+
+
 
 ## Dataviz generation
 
 Instructions for reporters, graphic designers and anyone else:
 
-1. [Launch the map configuration page](https://striblab.github.io/elex24_config/dist)
+1. [Launch the map configuration page](https://striblab.github.io/elex26_primary_config/dist)
 
 2. Select which electoral results to display and map configuration options
 
-3. Click GENERATE and an embeddable Mapbox URL will pop into a new browser tab
+3. Click GENERATE and an embeddable MapLibre URL will appear with a preview
 
 4. Download necessary GEOJSON shapefiles and result CSVs for desired contests and geographies from the list below the configuration options.
 
