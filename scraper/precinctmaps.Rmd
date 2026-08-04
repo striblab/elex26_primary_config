@@ -161,7 +161,7 @@ election_results$vtid <- as.character(election_results$vtid)  # Ensure vtid is c
 
 # Load the shapefile and prepare it for joining
 voting_districts <- st_read("./shp/bdry_votingdistricts.shp")
-voting_districts$VTDID <- as.character(voting_districts$vtid)  # Convert vtid to character if it is not already
+voting_districts$vtid <- as.character(voting_districts$vtid)  # Convert vtid to character if it is not already
 
 # Join the election results to the shapefile by VTDID
 joined_data <- left_join(voting_districts, election_results, by = c("vtid" = "vtid"))

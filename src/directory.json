@@ -5,17 +5,17 @@
 {"index":2,"office":"rsen","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/rsen-results-geo.json","overlay":"counties.json","name":"GOP Sen Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
 {"index":3,"office":"dsen","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/dsen-results-geo.json","overlay":"counties.json","name":"DFL Sen Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
 
-{"index":4,"office":"dcd2","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/dcd2-results-geo.json","overlay":"congress2022.json","name":"DFL CD2 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
+{"index":4,"office":"dcd2","district":"2","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/dcd2-results-geo.json","overlay":"congress2022.json","name":"DFL CD2 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
 
-{"index":5,"office":"dcd5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/dcd5-results-geo.json","overlay":"congress2022.json","name":"DFL CD5 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
+{"index":5,"office":"dcd5","district":"5","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/dcd5-results-geo.json","overlay":"congress2022.json","name":"DFL CD5 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
 
-{"index":6,"office":"dcd8","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/dcd8-results-geo.json","overlay":"congress2022.json","name":"DFL CD8 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
+{"index":6,"office":"dcd8","district":"8","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/dcd8-results-geo.json","overlay":"congress2022.json","name":"DFL CD8 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
 
 {"index":7,"office":"rsos","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/rsos-results-geo.json","overlay":"counties.json","name":"GOP Secretary of State Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
 
 {"index":8,"office":"rsa","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/rsa-results-geo.json","overlay":"counties.json","name":"GOP State Auditor Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"},
 
-{"index":9,"office":"rs46","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/rs46-results-geo.json","overlay":"senate2022.json","name":"GOP State Senate District 46 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/csv-results-geo.csv"},
+{"index":9,"office":"rs46","district":"46","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/rs46-results-geo.json","overlay":"senate2022.json","name":"DFL State Senate District 46 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/csv-results-geo.csv"},
 
-{"index":10,"office":"hennepin","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/hennepin-results-geo.json","overlay":"counties.json","name":"Hennepin County Sheriff Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"}
+{"index":10,"office":"hennepin","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/hennepin-results-geo.json","overlay":"counties.json","name":"Hennepin County Attorney Primary","csv":"https://striblab.github.io/elex26_primary_config/store/rgov-results-geo.csv"}
 ]}
