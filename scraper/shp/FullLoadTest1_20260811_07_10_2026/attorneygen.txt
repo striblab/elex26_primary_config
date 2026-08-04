@@ -1,0 +1,3 @@
+MN;;;0335;Attorney General;;0301;Ronald J. Schutz;;;R;4105;4105;2046672;100.00;2046672
+MN;;;0335;Attorney General;;0401;Keith Ellison;;;DFL;4105;4105;2046646;49.68;4119933
+MN;;;0335;Attorney General;;0402;David J.S. Madgett;;;DFL;4105;4105;2073287;50.32;4119933

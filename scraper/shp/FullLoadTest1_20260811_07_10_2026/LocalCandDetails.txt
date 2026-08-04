@@ -1,0 +1,225 @@
+0172010109001;Andrew Boho;1010;Council Member At Large (Anoka) (Elect 2);02;01720;;1816 3RD AVE;ANOKA;MN;55303;1816 3RD AVE;ANOKA;MN;55303;7632919471;;andrewboho@me.com
+0172010109002;Marissa Carroll;1010;Council Member At Large (Anoka) (Elect 2);02;01720;;PRIVATE;;;;316 E MAIN ST, SUITE 51;ANOKA;MN;55303;7632006140;Marissacarrollforanoka.com;marissa@marissacarrollforanoka.com
+0172010109003;Jackie Young;1010;Council Member At Large (Anoka) (Elect 2);02;01720;;PRIVATE;;;;;;;;6512265292;;Jackieayoung@yahoo.com
+0172010109004;Sam Scott;1010;Council Member At Large (Anoka) (Elect 2);02;01720;;PRIVATE;;;;;;;;6126955896;votesamscott.com;sam@votesamscott.com
+0172010109005;Joelle Alvord;1010;Council Member At Large (Anoka) (Elect 2);02;01720;;418 RICE ST;ANOKA;MN;55303;;;;;7632583719;www.joellealvord.com;joellealvord@gmail.com
+0290810209001;Tom Compton;1020;Council Member Ward 1 (Austin);50;02908;;PRIVATE;;;;;;;;3192106588;;t_compton00@hotmail.com
+0290810209002;Laura Helle;1020;Council Member Ward 1 (Austin);50;02908;;304 4TH ST SW;AUSTIN;MN;55912;;;;;5074383988;;laura@thehelles.com
+0290810209003;Dayton Kehret;1020;Council Member Ward 1 (Austin);50;02908;;1911 18TH AVE NW;AUSTIN;MN;55912;;;;;5072198993;;daytonkehret@icloud.com
+0290810249001;Oballa Oballa;1024;Council Member Ward 3 (Austin);50;02908;;PRIVATE;;;;;;;;6056815172;;oballaaustincitycouncil@gmail.com
+0290810249002;Jeremy Hoffman;1024;Council Member Ward 3 (Austin);50;02908;;PRIVATE;;;;;;;;5073818795;;hoffmans.oldest@gmail.com
+0290810249003;Cindy K. Stahl;1024;Council Member Ward 3 (Austin);50;02908;;PRIVATE;;;;;;;;5073202990;;cstahl72@yahoo.com
+0290810249004;Kris Heichel;1024;Council Member Ward 3 (Austin);50;02908;;2011 13TH AVE NE;AUSTIN;MN;55912;;;;;5074381554;;kris.heichel@fairwaymc.com
+0483410109001;Shane Theas;1010;Council Member (Belle Plaine) (Elect 2);70;04834;;1001 PROVENCE LN;BELLE PLAINE;MN;56011;1001 PROVENCE LN;BELLE PLAINE;MN;56011;6207945453;stheas54@gmail.com;stheas54@gmail.com
+0483410109002;Dell Williams;1010;Council Member (Belle Plaine) (Elect 2);70;04834;;500 E MAIN ST;BELLE PLAINE;MN;56011;500 E MAIN ST;BELLE PLAINE;MN;56011;6122980434;;dellswilliams24@gmail.com
+0483410109003;Brent Shaughnessy;1010;Council Member (Belle Plaine) (Elect 2);70;04834;;120 N ASH ST;BELLE PLAINE;MN;56011;;;;;9526938961;;brentshaughnessy@yahoo.com
+0483410109004;Sarah Duklet;1010;Council Member (Belle Plaine) (Elect 2);70;04834;;828 E FOREST ST;BELLE PLAINE;MN;56011;828 E FOREST ST;BELLE PLAINE;MN;56011;5072179322;;smfix12@gmail.com
+0483410109005;Nelson Ladd;1010;Council Member (Belle Plaine) (Elect 2);70;04834;;213 S ELK ST;BELLE PLAINE;MN;56011;;;;;6123698652;;
+0506810109001;Grace Wilder;1010;Council Member At Large (Bemidji);04;05068;;PRIVATE;;;;;;;;2188882598;wilderforbemidji.com;hello@wilderforbemidji.com
+0506810109002;Ron Johnson;1010;Council Member At Large (Bemidji);04;05068;;1804 BELTRAMI CT NW;BEMIDJI;MN;56601;;;;;2187668783;;jron7150@gmail.com
+0506810109003;Audrey M. Thayer;1010;Council Member At Large (Bemidji);04;05068;;1212 AMERICA NW;BEMIDJI;MN;56601;;;;;2183683590;;audfrombemidji@gmail.com
+0638210209001;Alex Tierney;1020;Council Member Ward 1 (Blaine);02;06382;;PRIVATE;;;;;;;;6128002786;;atierney1325@gmail.com
+0638210209002;Tom Newland;1020;Council Member Ward 1 (Blaine);02;06382;;PRIVATE;;;;8575 CENTRAL AVE NE;BLAINE;MN;55434;6512713341;Facebook: Tom Newland for Blaine City Council;tomnewlandblaine@gmail.com
+0638210209003;Richard Paul;1020;Council Member Ward 1 (Blaine);02;06382;;PRIVATE;;;;;;;;7632903000;;rrearson@yahoo.com
+0654440109001;Levi Nagel;4010;Special Election for Town Supervisor Seat 1 (Bloomfield Township);23;06544;;14618 198TH ST;SPRING VALLEY;MN;55975;;;;;5072594558;;levijustin8028@gmail.com
+0654440109002;Shawn Merkel;4010;Special Election for Town Supervisor Seat 1 (Bloomfield Township);23;06544;;17559 141ST AVE;SPRING VALLEY;MN;55975;;;;;5074212235;;
+0794810019001;Laurie Ann Moore;1001;Mayor (Brooklyn Center);27;07948;;910 55TH AVE N;BROOKLYN CENTER;MN;55430;;;;;7634384790;Laurie Moore for Brooklyn Center - Facebook;lmoore133@comcast.net
+0794810019002;Teneshia Kragness;1001;Mayor (Brooklyn Center);27;07948;;PRIVATE;;;;P.O. BOX 29621;BROOKLYN CENTER;MN;55429;7634127248;;DrTeneshia@yahoo.com
+0794810019003;Alexander Koenig;1001;Mayor (Brooklyn Center);27;07948;;PRIVATE;;;;;;;;7633294059;BrooklynCenter2030.org;AlexanderKoenigMayor@gmail.com
+0794810019004;Latrecia J. Mayo;1001;Mayor (Brooklyn Center);27;07948;;PRIVATE;;;;;;;;6126952994;;LatreciaMayo@yahoo.com
+0794810109001;Georgette Byers;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;PRIVATE;;;;;;;;7634538227;;VotegeorgetteB2026cc@gmail.com
+0794810109002;Justin McGuire;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;PRIVATE;;;;;;;;6127470374;;justinm.mn@pm.me
+0794810109003;Jacob Carter;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;5719 JUNE AVE N;BROOKLYN CENTER;MN;55429;;;;;6125991573;;sandwichKing007@yahoo.com
+0794810109004;Aniya White;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;6325 GIRARD AVE N;BROOKLYN CENTER;MI;55430;6325 GIRARD AVE N;BROOKLYN CENTER;MN;55430;6124613696;;Aniyaw84@gmail.com
+0794810109005;Gretchen Enger;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;5205 TWIN LAKE BLVD E;BROOKLYN CENTER;MN;55429;5205 TWIN LAKE BLVD E;BROOKLYN CENTER;MN;55429;6124315052;https://www.gretchenenger.com/;gretchen4council@gmail.com
+0794810109006;Nahid Khan;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;6732 WILLOW LANE;BROOKLYN CENTER;MN;55430;;;;;7632219142;;Nahid4BCCityCouncil@gmail.com
+0794810109007;Mark Viste;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;7243 LOGAN AVE N;BROOKLYN CENTER;MN;55430-1026;7243 LOGAN AVE N;BROOKLYN CENTER;MN;55430-1026;7632226039;www.viste4brooklyncenter.com;viste4brooklyncenter@gmail.com
+0794810109008;Ebonie L. McMillan;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;PRIVATE;;;;;;;;6515153823;;eboniemcmillan7@gmail.com
+0794810109009;Dan Jerzak;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;;PRIVATE;;;;;;;;7632604366;www.DanJerzak.com;dan@danjerzak.com
+0796610019001;Hollies J. Winston;1001;Mayor (Brooklyn Park);27;07966;;PRIVATE;;;;8500 EDINBROOK PKWY STE I;BROOKLYN PARK;MN;55443;7637030905;www.HolliesWinston.org;HolliesWinston@gmail.com
+0796610019002;Maria Tran;1001;Mayor (Brooklyn Park);27;07966;;PRIVATE;;;;P.O. BOX 290027;MINNEAPOLIS;MN;55429;6512164220;VotemariaTran.com;maitran317@yahoo.com
+0796610019003;Boyd Morson;1001;Mayor (Brooklyn Park);27;07966;;PRIVATE;;;;;;;;7633550865;;boydmorson@yahoo.com
+0796610019004;Shelle Page;1001;Mayor (Brooklyn Park);27;07966;;9313 PRESTWICK LN N.;BROOKLYN PARK;MN;55443;9313 PRESTWICK LN N.;BROOKLYN PARK;MN;55443;6128197201;www.SPFORBP.com;SPforBrooklynPark@gmail.com
+0796610209001;Philip Seton Gaye-Bai;1020;Council Member Ward E (Brooklyn Park);27;07966;;5714 VILLAGE CREEK PKWY N;BROOKLYN PARK;MN;55443;;;;;7637323299;;pgaye-bai@outlook.com
+0796610209002;Allen Miskowiec;1020;Council Member Ward E (Brooklyn Park);27;07966;;9000 WEST RIVER RD;BROOKLYN PARK;MN;55444;9000 WEST RIVER RD;BROOKLYN PARK;MN;55444;9016039815;www.allenmiskowiec.com;ALLEN.MISKOWIEC@gmail.com
+0796610209003;Aaron Endris;1020;Council Member Ward E (Brooklyn Park);27;07966;;7454 MEADOWWOOD DR;BROOKLYN PARK;MN;55444;7454 MEADOWWOOD DRIVE;BROOKLYN PARK;MN;55444;7633184543;endris4bp.com;ndrisaron@gmail.com
+0796610209004;Christian Eriksen;1020;Council Member Ward E (Brooklyn Park);27;07966;;2401 80TH AVE N;BROOKLYN PARK;MN;55444;2401 80TH AVE N;BROOKLYN PARK;MN;55444;7736104742;www.eriksenforbrooklynpark.com;cseriksen@gmail.com
+0879410109001;Dan Kealey;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;;;;;9522508573;https://facebook.com/DanKealeyforCityCouncil;dankealey@gmail.com
+0879410109002;Tunisia Irby;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;;;;;9526868709;TunisiaIrby.com;tunisia_irby@yahoo.com
+0879410109003;Catarina "Cati" Gómez;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;;;;;9526877147;gomezforburnsville.com;catingomez@gmail.com
+0879410109004;Chris John;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;;;;;6128121059;chrisjohn4burnsville.com;ChrisJohn4Burnsville@gmail.com
+0879410109005;Tom Schuenke;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;;;;;6128166390;;tschuenke@comcast.net
+0879410109006;Daniel Smith;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;;;;;7633581964;;dan5564@yahoo.com
+0879410109007;Nick Benson;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;;;;;6128459880;bensonforburnsville.com;nick@ottergoose.com
+0879410109008;Vince Workman;1010;Council Member (Burnsville) (Elect 2);19;08794;;PRIVATE;;;;1904 HWY 13 E;BURNSVILLE;MN;55337;6123276230;facebook.com/vinceforburnsville;vince@workmanagencymn.com
+0937010109001;Andrew Maher;1010;Council Member (Cambridge) (Elect 2);30;09370;;251 4TH AVE NE;CAMBRIDGE;MN;55008;;;;;7636397525;;maher.andrew12@gmail.com
+0937010109002;Aaron Berg;1010;Council Member (Cambridge) (Elect 2);30;09370;;445 ASHLAND ST N;CAMBRIDGE;MN;55008;;;;;7014297433;;aaron.berg78@gmail.com
+0937010109003;William Dordal;1010;Council Member (Cambridge) (Elect 2);30;09370;;PRIVATE;;;;;;;;6125478509;;willdordal@yahoo.com
+0937010109004;Tom Schibilla;1010;Council Member (Cambridge) (Elect 2);30;09370;;546 4TH AVE NW;CAMBRIDGE;MN;55008;546 4TH AVE NW;CAMBRIDGE;MN;55008;6123902346;;T.Schibilla@gmail.com
+0937010109005;Ronda Szlavich;1010;Council Member (Cambridge) (Elect 2);30;09370;;1659 DELLWOOD ST S;CAMBRIDGE;MN;55008;;;;;5036807364;;livinjc247@gmail.com
+0937010109006;Joe Morin;1010;Council Member (Cambridge) (Elect 2);30;09370;;519 TAFT LOOP S;CAMBRIDGE;MN;55008;;;;;6123904951;;jmorin9731@izoom.net
+0937010109007;Bob Shogren;1010;Council Member (Cambridge) (Elect 2);30;09370;;677 TAFT LOOP S;CAMBRIDGE;MN;55008;677 TAFT LOOP S;CAMBRIDGE;MN;55008;7632456715;;bobshogren@gmail.com
+0982040109001;Mason Henry;4010;Special Election for Town Supervisor Seat 1 (Canton Township);23;09820;;13507 COUNTY RD 21;CANTON;MN;55922;;;;;5074505777;;masonlee62@hotmail.com
+1138610019001;Marty Halverson;1001;Mayor (Chisholm);69;11386;;322 SW 1ST ST;CHISHOLM;MN;55719;;;;;2189693250;;martinjhalverson@yahoo.com
+1138610019002;Brandan L. Fiedler;1001;Mayor (Chisholm);69;11386;;100 N CENTRAL AVE #206;CHISHOLM;MN;55719;;;;;2189663678;;blfiedler74@gmail.com
+1138610019003;Travis Vake;1001;Mayor (Chisholm);69;11386;;8-13TH STREET NW;CHISHOLM;MN;55719;;;;;2189660137;;travisvake@gmail.com
+1138610019004;Joy Frazier;1001;Mayor (Chisholm);69;11386;;PRIVATE;;;;;;;;6785913601;;sappho144@gmail.com
+1216010019001;Peter J Erickson;1001;Mayor (Cloquet);09;12160;;920 PROSPECT AVE;CLOQUET;MN;55720;;;;;2183105997;;peter.erickson.cb@gmail.com
+1216010019002;Dave Hallback;1001;Mayor (Cloquet);09;12160;;402 AGATE STREET;CLOQUET;MN;55720;;;;;2183918723;;davehallback@icloud.com
+1216010019003;Sheila Lamb;1001;Mayor (Cloquet);09;12160;;1912 SELMSER AVE;CLOQUET;MN;55720;;;;;2185905308;;nwdrproud@gmail.com
+1311410019001;Jim Shegstad;1001;Mayor (Coon Rapids);02;13114;;2640 119TH LN NW;COON RAPIDS;MN;55433;;;;;6129990402;;shegstadformayor@gmail.com
+1311410019002;Pat Carlson;1001;Mayor (Coon Rapids);02;13114;;PRIVATE;;;;;;;;7635680714;PatCarlsonforMayor.com;carlson11349@gmail.com
+1311410019003;Thuba Nguyen;1001;Mayor (Coon Rapids);02;13114;;PRIVATE;;;;PO BOX 48132;COON RAPIDS;MN;55448;6123258947;thubaforcoonrapids.com;thubaforcoonrapids@gmail.com
+1728810019001;Mike Maguire;1001;Mayor (Eagan);19;17288;;1331 ST. ANDREW BLVD.;EAGAN;MN;55123;;;;;6512311793;;mayor.mike.maguire@gmail.com
+1728810019002;Mike Supina;1001;Mayor (Eagan);19;17288;;PRIVATE;;;;;;;;6517060061;www.supina4eagan.com;supina4eagan@gmail.com
+1728810019003;Joseph P. Krueger;1001;Mayor (Eagan);19;17288;;PRIVATE;;;;3432 DENMARK AVE #126;EAGAN;MN;55123;6512221360;joekrueger4eaganmayor.com;joekrueger4eaganmayor@gmail.com
+1728810109001;Ross A Christensen;1010;Council Member (Eagan) (Elect 2);19;17288;;3460 GOLFVIEW DR. #2216;EAGAN;MN;55123;;;;;2182962561;;chefchristensen@msn.com
+1728810109002;Gary Hansen;1010;Council Member (Eagan) (Elect 2);19;17288;;4663 WILDWOOD STREET;EAGAN;MN;55122;;;;;6514541172;https://hansenforcouncil.com;garyhansen@1stcounsel.com
+1728810109003;Scott Armitage;1010;Council Member (Eagan) (Elect 2);19;17288;;868 SUDBERRY LANE;EAGAN;MN;55123;;;;;6517856185;votescottarmitage.com;scott@armitage-homes.com
+1728810109004;Jason Narverud;1010;Council Member (Eagan) (Elect 2);19;17288;;PRIVATE;;;;;EAGAN;MN;55122;6512314308;;jnarverud@gmail.com
+1728810109005;Paul Bakken;1010;Council Member (Eagan) (Elect 2);19;17288;;PRIVATE;;;;;;;;6516887075;;elect.bakken@gmail.com
+2054610109001;Brett Pollard;1010;Council Member (Faribault) (Elect 3);66;20546;;PRIVATE;;;;;;;;5078382387;;brettpollard7@gmail.com
+2054610109002;Jacob Reed;1010;Council Member (Faribault) (Elect 3);66;20546;;1760 WILLOW ST APT #118;FARIBAULT;MN;55021;1760 WILLOW ST APT #118;FARIBAULT;MN;55021;5072107195;;Jreedcampaign@gmail.com
+2054610109003;Natalie Halverson;1010;Council Member (Faribault) (Elect 3);66;20546;;1215 MAPLE LN;FARIBAULT;MN;55021;1215 MAPLE LN;FARIBAULT;MN;55021;5078380961;;votenataliehalverson@gmail.com
+2054610109004;John Rowan;1010;Council Member (Faribault) (Elect 3);66;20546;;10 PRAIRIE AVE SW;FARIBAULT;MN;55021;;;;;5073300825;;JOHN@FARIBAULT.NET
+2054610109005;Jack A. Cluck;1010;Council Member (Faribault) (Elect 3);66;20546;;1806 BIRCHWOOD CT;FARIBAULT;MN;55021;;;;;9524845238;;jackcluck@hotmail.com
+2054610109006;Kameron Gustafson;1010;Council Member (Faribault) (Elect 3);66;20546;;1419 SUNBIRD LN;FARIBAULT;MN;55021;;;;;5074123751;;kamerongustafson@outlook.com
+2054610109007;Katie Howard;1010;Council Member (Faribault) (Elect 3);66;20546;;19722 BELVIEW AVE;FARIBAULT;MN;55021;;;;;2534680751;;KatieHoward.Faribault@outlook.com
+2054610109008;Lexi Temple;1010;Council Member (Faribault) (Elect 3);66;20546;;PRIVATE;;;;;;;;5073300098;https://facebook.com/profile.php?id=61590258548589;lexitempleforcitycouncil@gmail.com
+2054610109009;Paul Wunderlich;1010;Council Member (Faribault) (Elect 3);66;20546;;24 MITCHELL DR;FARIBAULT;MN;55021;;;;;9522409401;;pjwunderlich@gmail.com
+2054610109010;Thelma A. Estrada;1010;Council Member (Faribault) (Elect 3);66;20546;;PRIVATE;;;;;;;;9524921037;;testrada0906@gmail.com
+2281410209001;Emily Villanueva;1020;Council Member Ward 1 (Fridley);02;22814;;5980 6TH ST NE;FRIDLEY;MN;55432;5980 6TH ST NE;FRIDLEY;MN;55432;7018402001;fridleyforward.com;emilyvforward1@gmail.com
+2281410209002;Luke Cardona;1020;Council Member Ward 1 (Fridley);02;22814;;461 67TH AVE NE;FRIDLEY;MN;55432;461 67TH AVE NE;FRIDLEY;MN;55432;7633342810;LukeForFridley.com;campaign@lukecardona.com
+2281410209003;Abdilahi Jama (AJ);1020;Council Member Ward 1 (Fridley);02;22814;;PRIVATE;;;;PO BOX 32268;FRIDLEY;MN;55432;6193829167;AJforfridleycitycouncil.com;AJForfridleycitycouncil@gmail.com
+2281410229001;Natividad Seefeld;1022;Council Member Ward 2 (Fridley);02;22814;;1106 ONONDAGA ST. NE;FRIDLEY;MN;55432;1106 ONONDAGA ST. NE;FRIDLEY;MN;55432;7634641119;;mexicali3367@yahoo.com
+2281410229002;Ryan Evanson;1022;Council Member Ward 2 (Fridley);02;22814;;1316 HILLCREST DR NE;FRIDLEY;MN;55432;;;;;6123251329;;rdevanson@gmail.com
+2281410229003;John Brillhart;1022;Council Member Ward 2 (Fridley);02;22814;;PRIVATE;;;;;;;;7632604238;https://www.fridleyforward.com;johnbforward2@gmail.com
+2879010019001;Marisa Allen;1001;Mayor (Hibbing);69;28790;;PRIVATE;;;;4324 5TH AVE E;HIBBING;MN;55746;2182939044;;marisa.changinglaws218@gmail.com
+2879010019002;Peter Hyduke;1001;Mayor (Hibbing);69;28790;;PRIVATE;;;;;;;;2189697146;;peterhyduke@yahoo.com
+2879010019003;Larry Siebert;1001;Mayor (Hibbing);69;28790;;PRIVATE;;;;;;;;2184217728;;larsie2001@yahoo.com
+2879010109001;Justin Fosso;1010;Council Member At Large (Hibbing);69;28790;;311 E 42ND ST;HIBBING;MN;55746;;;;;2189693369;;Justin.Fosso@delta.com
+2879010109002;Tiffany Schleppegrell;1010;Council Member At Large (Hibbing);69;28790;;3202 BUNKER RD;HIBBING;MN;55746;3202 BUNKER RD;HIBBING;MN;55746;2182690031;;tjschleppegrell@hotmail.com
+2879010109003;Angela Jivery;1010;Council Member At Large (Hibbing);69;28790;;PRIVATE;;;;;;;;2182952909;;ajivery1@outlook.com
+2879010109004;Mark Borland;1010;Council Member At Large (Hibbing);69;28790;;2416 11ST AVE E;HIBBING;MN;55746;;;;;2189668645;;mark.borland3@gmail.com
+3064410149001;Tim Burley;1014;Council Member Seat 1 (Hutchinson);43;30644;;132 COLLEGE AVE NE;HUTCHINSON;MN;55350;;;;;3202929947;;tankertim66@gmail.com
+3064410149002;Morgan Baum;1014;Council Member Seat 1 (Hutchinson);43;30644;;925 2ND AVE SW;HUTCHINSON;MN;55350;;;;;5128097771;;morganformn@gmail.com
+3064410149003;Hannah Peterson;1014;Council Member Seat 1 (Hutchinson);43;30644;;PRIVATE;;;;;;;;5079958735;;hpeterson128@gmail.com
+3064410159001;Jeremy Lee;1015;Council Member Seat 2 (Hutchinson);43;30644;;426 HURON ST SE #B;HUTCHINSON;MN;55350;;;;;3204551948;;jeremyleemnfl@gmail.com
+3064410159002;Aaron French;1015;Council Member Seat 2 (Hutchinson);43;30644;;1209 PRAIRIE VIEW CIR SW;HUTCHINSON;MN;55350;;;;;3202961273;;french.aaronj@gmail.com
+3064410159003;Dave Sebesta;1015;Council Member Seat 2 (Hutchinson);43;30644;;PRIVATE;;;;;;;;3205832964;;dave-Sebesta@hotmail.com
+3107610109001;Mary T'Kach;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;;7848 BABCOCK TRAIL;INVER GROVE HEIGHTS;MN;55077;7848 BABCOCK TRAIL;INVER GROVE HEIGHTS;MN;55077;6514555383;www.marytkach.com;mary@marytkach.com
+3107610109002;Stephanie Lee Shepherd Sandbeck;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;;PRIVATE;;;;;;;;6512709806;;ssandbeck@gmail.com
+3107610109003;Kevin Sethre;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;;PRIVATE;;;;;;;;6513018040;;sethrek3650@yahoo.com
+3107610109004;Tia Salscheider;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;;PRIVATE;;;;;;;;6512482598;;tsalscheider@gmail.com
+3107610109005;Tony Scales;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;;10211 BARNES AVENUE;INVER GROVE HEIGHTS;MN;55077;;;;;6519004614;www.votetonyscales.com;tjscales1@comcast.net
+3107610109006;Craig Kromrey;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;;PRIVATE;;;;;;;;6512481350;;kromreyc@gmail.com
+3107610109007;Matt Mills;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;;PRIVATE;;;;;;;;6127354547;https://mattmills4igh.com;millsforigh@gmail.com
+3132810019001;Christopher Brooks;1001;Mayor (Isanti);30;31328;;1011 GOLDEN WAY NW;ISANTI;MN;55040;;;;;2565533976;;ashbrooks33@gmail.com
+3132810019002;Luke Merrill;1001;Mayor (Isanti);30;31328;;PRIVATE;;;;;;;;7635165082;lukejmerrill.com;lukejmerrill@aol.com
+3132810019003;Joshua Augustine Lehn;1001;Mayor (Isanti);30;31328;;PRIVATE;;;;110 2ND AVENUE NW;ISANTI;MN;55040;2183436998;augustineofisanti.org;augie@sparkworks.org
+3132810019004;Jeff Johnson;1001;Mayor (Isanti);30;31328;;705 MAIN ST W;ISANTI;MN;55040;705 MAIN ST W;ISANTI;MN;55040;6122367513;jeffformayor.us;jeffbjohnson21@gmail.com
+3856410229001;Mike Davis;1022;Council Member Ward 2 (Luverne);67;38564;;310 S DONALDSON;LUVERNE;MN;56156;;;;;5072277068;;
+3856410229002;Lori Ann Hallstrom;1022;Council Member Ward 2 (Luverne);67;38564;;208 E MAIN ST;LUVERNE;MN;56156;;;;;6053100896;;hallstromglass@gmail.com
+3856410229003;Tom Lanoue;1022;Council Member Ward 2 (Luverne);67;38564;;213 W CRAWFORD ST;LUVERNE;MN;56156;;;;;5072278217;;t.lanoue@icloud.com
+3987810019001;Julia Hamann;1001;Mayor (Mankato);07;39878;;311 N. 5TH ST;MANKATO;MN;56001;PO BOX 4051;MANKATO;MN;56002;5075192428;voteforjulia.com;info@voteforjulia.com
+3987810019002;Toby Leonard;1001;Mayor (Mankato);07;39878;;115 S 4TH ST;MANKATO;MN;56001;;;;;5073821167;;toby@mankatomayor.com
+3987810019003;Najwa Massad;1001;Mayor (Mankato);07;39878;;116 VIKING CT;MANKATO;MN;56001;;;;;5073821002;;najwa_massad@yahoo.com
+4038210019001;Marylee Abrams;1001;Mayor (Maplewood);62;40382;;1875 E. SHORE DRIVE #416;MAPLEWOOD;MN;55109;1875 E. SHORE DRIVE #416;MAPLEWOOD;MN;55109;6512393814;maryleeformaplewood.com;maryleeformaplewood@gmail.com
+4038210019002;Chonburi Lee;1001;Mayor (Maplewood);62;40382;;2634 STILLWATER RD E;MAPLEWOOD;MN;55119;2634 STILLWATER RD E;MAPLEWOOD;MN;55119;6513212299;www.chonburilee.com;hello@chonburilee.com
+4038210019003;Diana Longrie;1001;Mayor (Maplewood);62;40382;;1778 DESOTO ST;MAPLEWOOD;MN;55117;1778 DESOTO ST;MAPLEWOOD;MN;55117;6512140859;www.dianalongrie.com;mayorlongrie@yahoo.com
+4562810119001;Brock Ray;1011;Special Election for Council Member (New Hope);27;45628;;4601 ENSIGN AVE N;NEW HOPE;MN;55428;;;;;6124810566;brockfornewhope.com;brock@brockray.com
+4562810119002;Mark Wagner;1011;Special Election for Council Member (New Hope);27;45628;;8416 27TH AVE N;NEW HOPE;MN;55427;;;;;4805801261;;mark4newhope@gmail.com
+4562810119003;Rachelle Hamilton;1011;Special Election for Council Member (New Hope);27;45628;;PRIVATE;;;;;;;;3073311620;;RACHELLEDHAM@GMAIL.com
+4692410109001;Katy Vondrasek;1010;Council Member At Large (Northfield);66;46924;;PRIVATE;;;;;;;;9522706614;;katyforcitycouncil@gmail.com
+4692410109002;Thor Keilen;1010;Council Member At Large (Northfield);66;46924;;801 KRAEWOOD DRIVE #220;NORTHFIELD;MN;55057;;;;;5072100148;;Thorkeilen@gmail.com
+4692410109003;Adam Wale;1010;Council Member At Large (Northfield);66;46924;;PRIVATE;;;;;;;;6034948789;www.voteadamnorthfield.com;adam.r.wale@gmail.com
+4692410269001;Peder Jothen;1026;Council Member Ward 4 (Northfield);66;46924;;901 1ST ST W;NORTHFIELD;MN;55057;;;;;4432575880;;jothen@stolaf.edu
+4692410269002;Dave "Superdave" Juntunen;1026;Council Member Ward 4 (Northfield);66;46924;;900 DIVISION ST S;NORTHFIELD;MN;55057;;;;;6123827789;;superdavemn@yahoo.com
+4692410269003;James Clinton;1026;Council Member Ward 4 (Northfield);66;46924;;PRIVATE;;;;PO BOX 13, 14 BRIDGE SQ;NORTHFIELD;MN;55057;5078508725;;jamesthomasclinton@gmail.com
+5302610109001;Justin Dahl;1010;Council Member At Large (Ramsey);02;53026;;PRIVATE;;;;;;;;7632744157;;Lawnmonstermn@yahoo.com
+5302610109002;Debra Musgrove;1010;Council Member At Large (Ramsey);02;53026;;15247 FLUORINE ST NW;RAMSEY;MN;55303;15247 FLUORINE ST NW;RAMSEY;MN;55303;7632086729;Musgrove4Ramsey.com;debrajmusgrove@gmail.com
+5302610109003;Kelly Muchowski;1010;Council Member At Large (Ramsey);02;53026;;PRIVATE;;;;;;;;6125183441;;kellymuchowski1@gmail.com
+5421410109001;Sharon Christensen;1010;Council Member At Large (Richfield);27;54214;;6600 PLEASANT AVENUE SOUTH #132;RICHFIELD;MN;55423;6600 PLEASANT AVENUE SOUTH #132;RICHFIELD;MN;55423;6124020122;;princesswriter55@gmail.com
+5421410109002;Emily - Em - Antin;1010;Council Member At Large (Richfield);27;54214;;PRIVATE;;;;7544 BLOOMINGTON AVE;RICHFIELD;MN;55423;7636072790;;antin.mba@gmail.com
+5421410109003;Aaron McKain;1010;Council Member At Large (Richfield);27;54214;;PRIVATE;;;;6415 STEVENS AVE;RICHFIELD;MN;55423;6513634264;;mckain.3@gmail.com
+5488010019001;Jess Garcia;1001;Mayor (Rochester);55;54880;;1521 DAMON CT SE;ROCHESTER;MN;55904;PO BOX 9123;ROCHESTER;MN;55903;5074002688;drjessgarcia.com;vote@drjessgarcia.com
+5488010019002;Molly Dennis;1001;Mayor (Rochester);55;54880;;412 26TH ST NW;ROCHESTER;MN;55901;;;;;5072692916;votemollydennis.com;molly4rochester@gmail.com
+5488010019003;Joe Powers;1001;Mayor (Rochester);55;54880;;PRIVATE;;;;PO BOX 9243;ROCHESTER;MN;55904;5072548164;powersformayor.com;joe@powersformayor.com
+5488010019004;Walé Elegbede;1001;Mayor (Rochester);55;54880;;PRIVATE;;;;PO BOX 6842;ROCHESTER;MN;55903;6084989582;waleforrochester.com;welegbede@gmail.com
+5488010019005;Axe Abdimajid Ahmed;1001;Mayor (Rochester);55;54880;;PRIVATE;;;;PO BOX 6666;ROCHESTER;MN;55901;5079908733;axeformayor.com;info@axeformayor.com
+5488010019006;Jerrod Lucker;1001;Mayor (Rochester);55;54880;;PRIVATE;;;;PO BOX 72;ROCHESTER;MN;55903;6127014928;jerrodluckerformayor.com;jerrodluckerformayor@gmail.com
+5488010019007;Benjamin Zastrow;1001;Mayor (Rochester);55;54880;;PRIVATE;;;;PO BOX 158;ROCHESTER;MN;55903;6086226093;electbenjaminzastrow.com;electbenjaminzastrow@gmail.com
+5488010019008;Ayub HajiOmar;1001;Mayor (Rochester);55;54880;;33 13 1/2 ST NW;ROCHESTER;MN;55901;;;;;5077358050;;ayub.hajiomar@gmail.com
+5488010289001;Ruchi Gupta;1028;Council Member District 5 (Rochester);55;54880;;PRIVATE;;;;PO BOX 9218;ROCHESTER;MN;55903;5079902525;ruchi-for-rochester-mn.com;info@ruchi-for-rochester-mn.com
+5488010289002;Shaun C. Palmer;1028;Council Member District 5 (Rochester);55;54880;;PRIVATE;;;;PO BOX 581;ROCHESTER;MN;55903;5072549484;palmerward5.org;palmerward5@gmail.com
+5488010289003;Acacia Ward;1028;Council Member District 5 (Rochester);55;54880;;911 12TH AVE NE;ROCHESTER;MN;55906;;;;;5076965956;www.rochesterforward.com;awacacia@rochesterforward.com
+5518610109001;Matthew Nakajima Finn;1010;Council Member (Rogers) (Elect 2);27;55186;;PRIVATE;;;;;;;;6084696660;;finnmatt23@gmail.com
+5518610109002;Adam Hunt;1010;Council Member (Rogers) (Elect 2);27;55186;;PRIVATE;;;;;;;;6082145072;;adamduanehunt@gmail.com
+5518610109003;Rick Ihli;1010;Council Member (Rogers) (Elect 2);27;55186;;14092 GADWALL LANE;ROGERS;MN;55374;;;;;6122670469;;RickIhli54@gmail.com
+5518610109004;Ashraf Wahba;1010;Council Member (Rogers) (Elect 2);27;55186;;PRIVATE;;;;;;;;6124127272;;Wahba30@yahoo.com
+5518610109005;John Patrick Dierberger;1010;Council Member (Rogers) (Elect 2);27;55186;;PRIVATE;;;;;;;;6514727563;;John@HCCRestoration.com
+5518610109006;Christian Grams;1010;Council Member (Rogers) (Elect 2);27;55186;;14047 LYNCH DRIVE;ROGERS;MN;55374;;;;;6122759427;;christian.t.grams@gmail.com
+5585210019001;Dan Roe;1001;Mayor (Roseville);62;55852;;2100 AVON ST N;ROSEVILLE;MN;55113;2100 AVON ST S;ROSEVILLE;MN;55113;6514879654;roe4roseville.org;roe4roseville@comcast.net
+5585210019002;Matthew Drwall;1001;Mayor (Roseville);62;55852;;PRIVATE;;;;;;;;6122015581;;mattdrwall@gmail.com
+5585210019003;Roger B. Hess Jr.;1001;Mayor (Roseville);62;55852;;PRIVATE;;;;1911 RICE STREET;ROSEVILLE;MN;55113;6512706910;;rogerhessjr@aol.com
+5585210109001;Rebecca Carlson;1010;Council Member (Roseville) (Elect 2);62;55852;;PRIVATE;;;;;;;;6513364683;;beckycrew15@yahoo.com
+5585210109002;Bruce K. Bester;1010;Council Member (Roseville) (Elect 2);62;55852;;3017 SANDY HOOK DR;ROSEVILLE;MN;55113;;;;;6122406712;;brucebester@msn.com
+5585210109003;Wayne Groff;1010;Council Member (Roseville) (Elect 2);62;55852;;2266 MARION ROAD;ROSEVILLE;MN;55113;2266 MARION ROAD;ROSEVILLE;MN;55113;6128670915;;waynegroff4roseville@gmail.com
+5585210109004;Erik Noren;1010;Council Member (Roseville) (Elect 2);62;55852;;PRIVATE;;;;;;;;6512695295;;noren52@gmail.com
+5585210109005;Cassie Iverson;1010;Council Member (Roseville) (Elect 2);62;55852;;PRIVATE;;;;P.O BOX 13593;ROSEVILLE;MN;55113;6125521170;cassie4roseville.com;cassie@cassie4roseville.com
+5585210109006;Kevin Nicholson;1010;Council Member (Roseville) (Elect 2);62;55852;;2802 GALTIER ST;ROSEVILLE;MN;55113;;;;;6512265453;mnlowvision.com;mnlowvision@msn.com
+5585210109007;Siafa Barclay;1010;Council Member (Roseville) (Elect 2);62;55852;;2406 COUNTY RD D W #3;ROSEVILLE;MN;55112;2406 COUNTY RD D W;ROSEVILLE;MN;55112;6512398103;;siasusie2000@gmail.com
+5585210109008;Alexis Cran;1010;Council Member (Roseville) (Elect 2);62;55852;;PRIVATE;;;;;;;;7154104773;;alexisacran@gmail.com
+5689610209001;Charlie Hobbs;1020;Special Election for Council Member Ward 1 (St. Cloud);73;56896;;900 11TH AVE S;ST CLOUD;MN;56301;900 11TH AVE S;ST CLOUD;MN;56301;3202048680;charliehobbsforstcloud.org;charliehobbsforstcloud@gmail.com
+5689610209002;Dave Masters;1020;Special Election for Council Member Ward 1 (St. Cloud);73;56896;;19 HIGHBANKS PLACE;ST. CLOUD;MN;56301;19 HIGHBANKS PLACE;ST. CLOUD;MN;56301;3202660075;;davemasters@charter.net
+5689610209003;Dreyton Nichols;1020;Special Election for Council Member Ward 1 (St. Cloud);73;56896;;1131 12TH AVE S.;ST. CLOUD;MN;56301;1131 12TH AVE S.;ST. CLOUD;MN;56301;7192811958;unitewithnichols.com;dreyton6@gmail.com
+5689610269001;Joe Baratta;1026;Special Election for Council Member Ward 4 (St. Cloud);73;56896;;1700 26TH ST. S.;ST.CLOUD;MN;56301;1700 26TH ST. S.;ST. CLOUD;MN;56301;3202374591;;joe4ward4@gmail.com
+5689610269002;Zak X;1026;Special Election for Council Member Ward 4 (St. Cloud);73;56896;;1904 OAK GROVE RD SW;ST CLOUD;MN;56301;1904 OAK GROVE RD SW;ST CLOUD;MN;56301;6127023710;;zstumpf89@gmail.com
+5689610269003;Craig Heurung;1026;Special Election for Council Member Ward 4 (St. Cloud);73;56896;;3525 36TH ST S.;ST CLOUD;MN;56301;3525 36TH ST S.;ST CLOUD;MN;56301;3202378663;;craigheurung@hotmail.com
+5689610269004;Amaan Abdi;1026;Special Election for Council Member Ward 4 (St. Cloud);73;56896;;2704 EDWARD DR;SAINT CLOUD;MN;56301;2704 EDWARD DR;SAINT CLOUD;MN;56301;3203804141;;Abdi.Abdirahman004@gmail.com
+5695010019001;Mark Vogel;1001;Mayor (St. Francis);02;56950;;PRIVATE;;;;;;;;6512613932;;mt_vogel@yahoo.com
+5695010019002;Sarah Udvig;1001;Mayor (St. Francis);02;56950;;4122 231ST LN NW;ST. FRANCIS;MN;55070;;;;;6125589914;;sarah.udvig@gmail.com
+5695010019003;Aaron Hill;1001;Mayor (St. Francis);02;56950;;PRIVATE;;;;;;;;6124121189;;Hill4Mayorstf@gmail.com
+5695010109001;Tina Carroll;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;;PRIVATE;;;;;;;;7632293742;;carrollt74@gmail.com
+5695010109002;Kevin Robinson;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;;23978 REDWOOD ST. NW;ST. FRANCIS;MN;55070;;;;;6127602297;;KEVIN7542@MSN.com
+5695010109003;Mike Rodger;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;;PRIVATE;;;;;;;;6514707211;;lendo50@yahoo.com
+5695010109004;Denny Christenson;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;;24343 ST. FRANCIS BLVD NW;ST. FRANCIS;MN;55070;24343 ST. FRANCIS BLVD NW;ST. FRANCIS;MN;55070;6123258907;;VETTARI92@mail.com
+5695010109005;MaraLynn Kubacki;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;;PRIVATE;;;;;;;;7636392667;;movewithmaralynn@gmail.com
+6149210109001;Gusta G. Carr;1010;Council Member (South St. Paul) (Elect 3);19;61492;;PRIVATE;;;;;;;;7633012463;;gusta.g.carr@gmail.com
+6149210109002;Joseph Kaliszewski;1010;Council Member (South St. Paul) (Elect 3);19;61492;;256 6TH AVE. SO.;SOUTH SAINT PAUL;MN;55075;;;;;6126162989;;jkalisze0053@gmail.com
+6149210109003;Tyler C. Fehrman;1010;Council Member (South St. Paul) (Elect 3);19;61492;;1560 LINCOLN PARK DRIVE;SOUTH ST. PAUL;MN;55075;;;;;6512631688;;tfehrman@gmail.com
+6149210109004;Matthew Thompson;1010;Council Member (South St. Paul) (Elect 3);19;61492;;PRIVATE;;;;;;;;6122296150;;mthompsonal@gmail.com
+6149210109005;Daniel Nundahl;1010;Council Member (South St. Paul) (Elect 3);19;61492;;PRIVATE;;;;;;;;6128162442;;dan4ssp@yahoo.com
+6149210109006;Margaret Durenberger;1010;Council Member (South St. Paul) (Elect 3);19;61492;;417 5TH AVE. NORTH;SOUTH SAINT PAUL;MN;55075;;;;;6125008608;;mdurenberger73@gmail.com
+6149210109007;Brian Ducklinsky;1010;Council Member (South St. Paul) (Elect 3);19;61492;;568 EAST ANNAPOLIS STREET;SOUTH SAINT PAUL;MN;55075;;;;;7632091788;;ducklinsky@gmail.com
+6210410109001;Brand Ingalls;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;;PRIVATE;;;;;;;;5077011196;;brandingalls2019@gmail.com
+6210410109002;Greg Melartin;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;;PRIVATE;;;;;;;;5074818308;;gregmelartin@yahoo.com
+6210410109003;Luan R. Ruesink;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;;PRIVATE;;;;;;;;5072595459;;luanruesink@yahoo.com
+6210410109004;Brent Allen Kohn;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;;PRIVATE;;;;;;;;5079517451;;brentkohn@hotmail.com
+6210410109005;Brent Eisenman;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;;PRIVATE;;;;;;;;5079934815;;brenteisenman2485@gmail.com
+7042010019001;Rollie Nissen;1001;Mayor (Willmar);34;70420;;3410 EAGLE RIDGE DR W;WILLMAR;MN;56201;;;;;3202129887;;RLLNissen@gmail.com
+7042010019002;Sarah Rose Vasquez;1001;Mayor (Willmar);34;70420;;PRIVATE;;;;;;;;3205223906;;sarahlivesinwillmar@yahoo.com
+7042010019003;Justin Ask;1001;Mayor (Willmar);34;70420;;2105 6TH AVE SE;WILLMAR;MN;56201;;;;;3202623352;;pastorjustinask@gmail.com
+7042010019004;Zeke Dahl;1001;Mayor (Willmar);34;70420;;500 RUSSELL ST NW;WILLMAR;MN;56201;;;;;5072192251;;zdahl@hotmail.com
+0000150009001;Christin Crabtree;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001;PRIVATE;;;;P.O. BOX 6079;MINNEAPOLIS;MN;55406;6128046688;christincrabtree.com;info@christincrabtree.com
+0000150009002;Stephanie Johnson;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001;PRIVATE;;;;1501 HENNEPIN AVENUE;MINNEAPOLIS;MN;55403;6123637688;;stephaniejohnsonformsb@gmail.com
+0000150009003;Clifton "CJ" Henderson;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001;PRIVATE;;;;1106 E 76TH ST;MINNEAPOLIS;MN;55404;6122723994;;CJ_henderson1@att.net
+0000150009004;Collin Beachy;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001;PRIVATE;;;;290 MARKET ST;MINNEAPOLIS;MN;55405;6124811662;Beachy4schoolboard.com;beachy4schoolboard@gmail.com
+0000150009005;Michael Baskins;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001;22 27TH AVE SE UNIT 302;MINNEAPOLIS;MN;55414;;;;;2489210689;;baskins.michael@gmail.com
+0003850009001;Tina Stately;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;112277 PONEMAH RD;REDBY;MN;56670;;;;;2185087124;;
+0003850009002;Dustin Thunder-Harris;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;13900 GREEN LAKE RD 425;REDBY;MN;56670;;;;;2185566366;;itsmed3000@gmail.com
+0003850009003;Nicole Desjarlait;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;25191 W B.O.T. DR.;RED LAKE;MN;56671;;;;;2187664485;;nicjd18@gmail.com
+0003850009004;Jennifer Schoenborn;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;22885 BALIF LOOP ROAD;RED LAKE;MN;56671;;;;;2183683263;;scho0636@gmail.com
+0003850009005;Vestanna Cook;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;22135 WOLF RD;RED LAKE;MN;56671;;;;;2182140072;;vestanna30@gmail.com
+0003850009006;Ryan Holthusen;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;22140 WOLF RD;RED LAKE;MN;56671;PO BOX 1265;RED LAKE;MN;56671;2185562601;;
+0003850009007;Sharon Kingbird;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;15388 BUBBA STATELY DR.;RED LAKE;MN;56671;;;;;2183083138;;sharonkb19@gmail.com
+0003850009008;Ron Lussier;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;40758 CLEARWATER ROAD;RED LAKE;MN;56671;;;;;2184071261;;rlussier70@gmail.com
+0003850009009;Robert Pemberton Sr;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;15395 ALPENA AVE;REDBY;MN;56670;;;;;2183685836;;faleisha@paulbunyan.net
+0003850009010;Deanna K Lasley;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;11544 HWY 89;RED LAKE;MN;56671;;;;;2187664500;;d.lasley03@gmail.com
+0003850009011;Christopher Jourdain;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;15465 JOURDAIN RD.;RED LAKE;MN;56671;;;;;2183686432;;jmg679@gmail.com
+0003850009012;Linda S. Perkins;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;25353 NORTHSHORE RD.;PONEMAH;MN;56666;;;;;2185567878;;1957lsp@gmail.com
+0003850009013;Fawn Beaulieu;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;15960 LITTLEROCK CRK RD;RED LAKE;MN;56671;PO BOX 332;RED LAKE;MN;56671;2184072214;;fawnbeaulieu10@gmail.com
+0003850009014;Deanna Pemberton;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038;15395 ALPENA AVE;REDBY;MN;56670;;;;;2183681024;;robdeanna5@outlook.com
+0020650069001;Laura Knudsen;5006;School Board Member Position 4 (ISD #206);21;;0206;PRIVATE;;;;3966 JUDICIAL DITCH RD NE;NELSON;MN;56355;3207633703;www.knudsenforkids.com;laura@lauraknudsen.com
+0020650069002;Wendy Hoff;5006;School Board Member Position 4 (ISD #206);21;;0206;PRIVATE;;;;;;;;3204457222;;w.boggs74@gmail.com
+0020650069003;Sarah Moore;5006;School Board Member Position 4 (ISD #206);21;;0206;PRIVATE;;;;;;;;3204910120;;sarahkanderson@yahoo.com

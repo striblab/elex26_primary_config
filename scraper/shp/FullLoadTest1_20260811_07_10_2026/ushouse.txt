@@ -1,0 +1,41 @@
+MN;;;0104;U.S. Representative District 1;1;0301;Gregory A. Goetzman;;;R;750;750;371389;33.40;1112033
+MN;;;0104;U.S. Representative District 1;1;0302;Oliver R. Morlan;;;R;750;750;369382;33.22;1112033
+MN;;;0104;U.S. Representative District 1;1;0303;Brad Finstad;;;R;750;750;371262;33.39;1112033
+MN;;;0104;U.S. Representative District 1;1;0401;Jake Johnson;;;DFL;750;750;375601;49.98;751494
+MN;;;0104;U.S. Representative District 1;1;0402;Alex Eaton;;;DFL;750;750;375893;50.02;751494
+MN;;;0105;U.S. Representative District 2;2;0301;Eric Pratt;;;R;260;260;133231;100.00;133231
+MN;;;0105;U.S. Representative District 2;2;0401;Abdi Abdulle;;;DFL;260;260;131858;16.81;784541
+MN;;;0105;U.S. Representative District 2;2;0402;Matthew D. Klein;;;DFL;260;260;132136;16.84;784541
+MN;;;0105;U.S. Representative District 2;2;0403;Hugh McTavish;;;DFL;260;260;128863;16.43;784541
+MN;;;0105;U.S. Representative District 2;2;0404;Matt Little;;;DFL;260;260;132372;16.87;784541
+MN;;;0105;U.S. Representative District 2;2;0405;Kaela Berg;;;DFL;260;260;134643;17.16;784541
+MN;;;0105;U.S. Representative District 2;2;0406;Christopher Mosel;;;DFL;260;260;124669;15.89;784541
+MN;;;0106;U.S. Representative District 3;3;0301;Tyler Bass;;;R;229;229;108618;48.71;222987
+MN;;;0106;U.S. Representative District 3;3;0302;Quentin Wittrock;;;R;229;229;114369;51.29;222987
+MN;;;0106;U.S. Representative District 3;3;0401;Kelly Morrison;;;DFL;229;229;115632;100.00;115632
+MN;;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;212;212;109638;34.47;318039
+MN;;;0107;U.S. Representative District 4;4;0302;Paul Wikstrom;;;R;212;212;99100;31.16;318039
+MN;;;0107;U.S. Representative District 4;4;0303;Paul Xiong;;;R;212;212;109301;34.37;318039
+MN;;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;212;212;106149;49.85;212936
+MN;;;0107;U.S. Representative District 4;4;0402;Aswar Rahman;;;DFL;212;212;106787;50.15;212936
+MN;;;0108;U.S. Representative District 5;5;0301;Abbey Zieska;;;R;217;217;110175;25.20;437163
+MN;;;0108;U.S. Representative District 5;5;0302;John Nagel;;;R;217;217;110131;25.19;437163
+MN;;;0108;U.S. Representative District 5;5;0303;Angie Windhauser;;;R;217;217;107208;24.52;437163
+MN;;;0108;U.S. Representative District 5;5;0304;Dalia Al-Aqidi;;;R;217;217;109649;25.08;437163
+MN;;;0108;U.S. Representative District 5;5;0401;Latonya T. Reeves;;;DFL;217;217;109549;20.15;543751
+MN;;;0108;U.S. Representative District 5;5;0402;Ilhan Omar;;;DFL;217;217;105816;19.46;543751
+MN;;;0108;U.S. Representative District 5;5;0403;Nate Schluter;;;DFL;217;217;111732;20.55;543751
+MN;;;0108;U.S. Representative District 5;5;0404;Abena A. McKenzie;;;DFL;217;217;107336;19.74;543751
+MN;;;0108;U.S. Representative District 5;5;0405;Julie Trang Le;;;DFL;217;217;109318;20.10;543751
+MN;;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;276;276;133400;32.73;407518
+MN;;;0109;U.S. Representative District 6;6;0302;Chris Corey;;;R;276;276;135228;33.18;407518
+MN;;;0109;U.S. Representative District 6;6;0303;Mike Foley;;;R;276;276;138890;34.08;407518
+MN;;;0109;U.S. Representative District 6;6;0401;Doug Chapin;;;DFL;276;276;135632;100.00;135632
+MN;;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1327;1327;655010;100.00;655010
+MN;;;0110;U.S. Representative District 7;7;0401;Steve Carlson;;;DFL;1327;1327;674761;50.76;1329436
+MN;;;0110;U.S. Representative District 7;7;0402;Erik Osberg;;;DFL;1327;1327;654675;49.24;1329436
+MN;;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;834;834;407455;48.67;837106
+MN;;;0111;U.S. Representative District 8;8;0302;Anthony Hamilton;;;R;834;834;429651;51.33;837106
+MN;;;0111;U.S. Representative District 8;8;0401;Luke Gulbranson;;;DFL;834;834;410142;32.71;1253841
+MN;;;0111;U.S. Representative District 8;8;0402;John Munter;;;DFL;834;834;421233;33.60;1253841
+MN;;;0111;U.S. Representative District 8;8;0403;Trina Swanson;;;DFL;834;834;422466;33.69;1253841

@@ -1,0 +1,205 @@
+MN;;;1010;Council Member At Large (Anoka) (Elect 2);01720;9001;Andrew Boho;;;NP;8;8;4582;20.52;22324
+MN;;;1010;Council Member At Large (Anoka) (Elect 2);01720;9002;Marissa Carroll;;;NP;8;8;4858;21.76;22324
+MN;;;1010;Council Member At Large (Anoka) (Elect 2);01720;9003;Jackie Young;;;NP;8;8;3701;16.58;22324
+MN;;;1010;Council Member At Large (Anoka) (Elect 2);01720;9004;Sam Scott;;;NP;8;8;4672;20.93;22324
+MN;;;1010;Council Member At Large (Anoka) (Elect 2);01720;9005;Joelle Alvord;;;NP;8;8;4511;20.21;22324
+MN;;;1020;Council Member Ward 1 (Austin);02908;9001;Tom Compton;;;NP;2;2;1160;31.35;3700
+MN;;;1020;Council Member Ward 1 (Austin);02908;9002;Laura Helle;;;NP;2;2;1417;38.30;3700
+MN;;;1020;Council Member Ward 1 (Austin);02908;9003;Dayton Kehret;;;NP;2;2;1123;30.35;3700
+MN;;;1024;Council Member Ward 3 (Austin);02908;9001;Oballa Oballa;;;NP;2;2;885;23.61;3749
+MN;;;1024;Council Member Ward 3 (Austin);02908;9002;Jeremy Hoffman;;;NP;2;2;345;9.20;3749
+MN;;;1024;Council Member Ward 3 (Austin);02908;9003;Cindy K. Stahl;;;NP;2;2;1216;32.44;3749
+MN;;;1024;Council Member Ward 3 (Austin);02908;9004;Kris Heichel;;;NP;2;2;1303;34.76;3749
+MN;;;1010;Council Member (Belle Plaine) (Elect 2);04834;9001;Shane Theas;;;NP;1;1;465;15.24;3052
+MN;;;1010;Council Member (Belle Plaine) (Elect 2);04834;9002;Dell Williams;;;NP;1;1;499;16.35;3052
+MN;;;1010;Council Member (Belle Plaine) (Elect 2);04834;9003;Brent Shaughnessy;;;NP;1;1;527;17.27;3052
+MN;;;1010;Council Member (Belle Plaine) (Elect 2);04834;9004;Sarah Duklet;;;NP;1;1;635;20.81;3052
+MN;;;1010;Council Member (Belle Plaine) (Elect 2);04834;9005;Nelson Ladd;;;NP;1;1;926;30.34;3052
+MN;;;1010;Council Member At Large (Bemidji);05068;9001;Grace Wilder;;;NP;5;5;2692;38.19;7049
+MN;;;1010;Council Member At Large (Bemidji);05068;9002;Ron Johnson;;;NP;5;5;2688;38.13;7049
+MN;;;1010;Council Member At Large (Bemidji);05068;9003;Audrey M. Thayer;;;NP;5;5;1669;23.68;7049
+MN;;;1020;Council Member Ward 1 (Blaine);06382;9001;Alex Tierney;;;NP;10;10;5118;33.50;15278
+MN;;;1020;Council Member Ward 1 (Blaine);06382;9002;Tom Newland;;;NP;10;10;4552;29.79;15278
+MN;;;1020;Council Member Ward 1 (Blaine);06382;9003;Richard Paul;;;NP;10;10;5608;36.71;15278
+MN;;;4010;Special Election for Town Supervisor Seat 1 (Bloomfield Township);06544;9001;Levi Nagel;;;NP;1;1;289;15.45;1870
+MN;;;4010;Special Election for Town Supervisor Seat 1 (Bloomfield Township);06544;9002;Shawn Merkel;;;NP;1;1;666;35.61;1870
+MN;;;4010;Special Election for Town Supervisor Seat 1 (Bloomfield Township);06544;9099;WRITE-IN;;;NP;1;1;915;48.93;1870
+MN;;;1001;Mayor (Brooklyn Center);07948;9001;Laurie Ann Moore;;;NP;6;6;3091;28.09;11002
+MN;;;1001;Mayor (Brooklyn Center);07948;9002;Teneshia Kragness;;;NP;6;6;2391;21.73;11002
+MN;;;1001;Mayor (Brooklyn Center);07948;9003;Alexander Koenig;;;NP;6;6;2483;22.57;11002
+MN;;;1001;Mayor (Brooklyn Center);07948;9004;Latrecia J. Mayo;;;NP;6;6;3037;27.60;11002
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9001;Georgette Byers;;;NP;6;6;2703;10.23;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9002;Justin McGuire;;;NP;6;6;2253;8.53;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9003;Jacob Carter;;;NP;6;6;3029;11.46;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9004;Aniya White;;;NP;6;6;2807;10.62;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9005;Gretchen Enger;;;NP;6;6;2803;10.61;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9006;Nahid Khan;;;NP;6;6;3818;14.45;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9007;Mark Viste;;;NP;6;6;2992;11.32;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9008;Ebonie L. McMillan;;;NP;6;6;2544;9.63;26423
+MN;;;1010;Council Member (Brooklyn Center) (Elect 2);07948;9009;Dan Jerzak;;;NP;6;6;3474;13.15;26423
+MN;;;1001;Mayor (Brooklyn Park);07966;9001;Hollies J. Winston;;;NP;25;25;12309;23.81;51699
+MN;;;1001;Mayor (Brooklyn Park);07966;9002;Maria Tran;;;NP;25;25;12320;23.83;51699
+MN;;;1001;Mayor (Brooklyn Park);07966;9003;Boyd Morson;;;NP;25;25;14549;28.14;51699
+MN;;;1001;Mayor (Brooklyn Park);07966;9004;Shelle Page;;;NP;25;25;12521;24.22;51699
+MN;;;1020;Council Member Ward E (Brooklyn Park);07966;9001;Philip Seton Gaye-Bai;;;NP;9;9;4827;25.71;18774
+MN;;;1020;Council Member Ward E (Brooklyn Park);07966;9002;Allen Miskowiec;;;NP;9;9;5822;31.01;18774
+MN;;;1020;Council Member Ward E (Brooklyn Park);07966;9003;Aaron Endris;;;NP;9;9;3718;19.80;18774
+MN;;;1020;Council Member Ward E (Brooklyn Park);07966;9004;Christian Eriksen;;;NP;9;9;4407;23.47;18774
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9001;Dan Kealey;;;NP;17;17;8429;12.61;66839
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9002;Tunisia Irby;;;NP;17;17;8074;12.08;66839
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9003;Catarina "Cati" Gómez;;;NP;17;17;8661;12.96;66839
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9004;Chris John;;;NP;17;17;7783;11.64;66839
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9005;Tom Schuenke;;;NP;17;17;7034;10.52;66839
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9006;Daniel Smith;;;NP;17;17;9550;14.29;66839
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9007;Nick Benson;;;NP;17;17;9470;14.17;66839
+MN;;;1010;Council Member (Burnsville) (Elect 2);08794;9008;Vince Workman;;;NP;17;17;7838;11.73;66839
+MN;;;1010;Council Member (Cambridge) (Elect 2);09370;9001;Andrew Maher;;;NP;2;2;750;10.61;7070
+MN;;;1010;Council Member (Cambridge) (Elect 2);09370;9002;Aaron Berg;;;NP;2;2;802;11.34;7070
+MN;;;1010;Council Member (Cambridge) (Elect 2);09370;9003;William Dordal;;;NP;2;2;1020;14.43;7070
+MN;;;1010;Council Member (Cambridge) (Elect 2);09370;9004;Tom Schibilla;;;NP;2;2;971;13.73;7070
+MN;;;1010;Council Member (Cambridge) (Elect 2);09370;9005;Ronda Szlavich;;;NP;2;2;1167;16.51;7070
+MN;;;1010;Council Member (Cambridge) (Elect 2);09370;9006;Joe Morin;;;NP;2;2;1160;16.41;7070
+MN;;;1010;Council Member (Cambridge) (Elect 2);09370;9007;Bob Shogren;;;NP;2;2;1200;16.97;7070
+MN;;;4010;Special Election for Town Supervisor Seat 1 (Canton Township);09820;9001;Mason Henry;;;NP;1;1;740;71.09;1041
+MN;;;4010;Special Election for Town Supervisor Seat 1 (Canton Township);09820;9099;WRITE-IN;;;NP;1;1;301;28.91;1041
+MN;;;1001;Mayor (Chisholm);11386;9001;Marty Halverson;;;NP;1;1;504;19.02;2650
+MN;;;1001;Mayor (Chisholm);11386;9002;Brandan L. Fiedler;;;NP;1;1;540;20.38;2650
+MN;;;1001;Mayor (Chisholm);11386;9003;Travis Vake;;;NP;1;1;675;25.47;2650
+MN;;;1001;Mayor (Chisholm);11386;9004;Joy Frazier;;;NP;1;1;931;35.13;2650
+MN;;;1001;Mayor (Cloquet);12160;9001;Peter J Erickson;;;NP;6;6;3374;30.93;10910
+MN;;;1001;Mayor (Cloquet);12160;9002;Dave Hallback;;;NP;6;6;4424;40.55;10910
+MN;;;1001;Mayor (Cloquet);12160;9003;Sheila Lamb;;;NP;6;6;3112;28.52;10910
+MN;;;1001;Mayor (Coon Rapids);13114;9001;Jim Shegstad;;;NP;22;22;11646;35.23;33053
+MN;;;1001;Mayor (Coon Rapids);13114;9002;Pat Carlson;;;NP;22;22;10203;30.87;33053
+MN;;;1001;Mayor (Coon Rapids);13114;9003;Thuba Nguyen;;;NP;22;22;11204;33.90;33053
+MN;;;1001;Mayor (Eagan);17288;9001;Mike Maguire;;;NP;18;18;7653;30.74;24896
+MN;;;1001;Mayor (Eagan);17288;9002;Mike Supina;;;NP;18;18;8601;34.55;24896
+MN;;;1001;Mayor (Eagan);17288;9003;Joseph P. Krueger;;;NP;18;18;8642;34.71;24896
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9001;Ross A Christensen;;;NP;18;18;8575;18.70;45859
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9002;Gary Hansen;;;NP;18;18;9243;20.16;45859
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9003;Scott Armitage;;;NP;18;18;9494;20.70;45859
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9004;Jason Narverud;;;NP;18;18;9389;20.47;45859
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9005;Paul Bakken;;;NP;18;18;9158;19.97;45859
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9001;Brett Pollard;;;NP;4;4;1678;7.81;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9002;Jacob Reed;;;NP;4;4;2670;12.42;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9003;Natalie Halverson;;;NP;4;4;2596;12.08;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9004;John Rowan;;;NP;4;4;2454;11.42;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9005;Jack A. Cluck;;;NP;4;4;1630;7.58;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9006;Kameron Gustafson;;;NP;4;4;2285;10.63;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9007;Katie Howard;;;NP;4;4;2302;10.71;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9008;Lexi Temple;;;NP;4;4;1706;7.94;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9009;Paul Wunderlich;;;NP;4;4;1820;8.47;21492
+MN;;;1010;Council Member (Faribault) (Elect 3);20546;9010;Thelma A. Estrada;;;NP;4;4;2351;10.94;21492
+MN;;;1020;Council Member Ward 1 (Fridley);22814;9001;Emily Villanueva;;;NP;4;4;1900;38.17;4978
+MN;;;1020;Council Member Ward 1 (Fridley);22814;9002;Luke Cardona;;;NP;4;4;1228;24.67;4978
+MN;;;1020;Council Member Ward 1 (Fridley);22814;9003;Abdilahi Jama (AJ);;;NP;4;4;1850;37.16;4978
+MN;;;1022;Council Member Ward 2 (Fridley);22814;9001;Natividad Seefeld;;;NP;3;3;1883;35.28;5338
+MN;;;1022;Council Member Ward 2 (Fridley);22814;9002;Ryan Evanson;;;NP;3;3;1409;26.40;5338
+MN;;;1022;Council Member Ward 2 (Fridley);22814;9003;John Brillhart;;;NP;3;3;2046;38.33;5338
+MN;;;1001;Mayor (Hibbing);28790;9001;Marisa Allen;;;NP;4;4;2313;35.66;6487
+MN;;;1001;Mayor (Hibbing);28790;9002;Peter Hyduke;;;NP;4;4;2287;35.26;6487
+MN;;;1001;Mayor (Hibbing);28790;9003;Larry Siebert;;;NP;4;4;1887;29.09;6487
+MN;;;1010;Council Member At Large (Hibbing);28790;9001;Justin Fosso;;;NP;4;4;2078;26.92;7718
+MN;;;1010;Council Member At Large (Hibbing);28790;9002;Tiffany Schleppegrell;;;NP;4;4;2071;26.83;7718
+MN;;;1010;Council Member At Large (Hibbing);28790;9003;Angela Jivery;;;NP;4;4;1402;18.17;7718
+MN;;;1010;Council Member At Large (Hibbing);28790;9004;Mark Borland;;;NP;4;4;2167;28.08;7718
+MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9001;Tim Burley;;;NP;3;3;1291;25.20;5123
+MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9002;Morgan Baum;;;NP;3;3;1881;36.72;5123
+MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9003;Hannah Peterson;;;NP;3;3;1951;38.08;5123
+MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9001;Jeremy Lee;;;NP;3;3;1724;31.70;5439
+MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9002;Aaron French;;;NP;3;3;2201;40.47;5439
+MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9003;Dave Sebesta;;;NP;3;3;1514;27.84;5439
+MN;;;1010;Council Member (Inver Grove Heights) (Elect 2);31076;9001;Mary T'Kach;;;NP;12;12;7015;16.00;43839
+MN;;;1010;Council Member (Inver Grove Heights) (Elect 2);31076;9002;Stephanie Lee Shepherd Sandbeck;;;NP;12;12;5921;13.51;43839
+MN;;;1010;Council Member (Inver Grove Heights) (Elect 2);31076;9003;Kevin Sethre;;;NP;12;12;5459;12.45;43839
+MN;;;1010;Council Member (Inver Grove Heights) (Elect 2);31076;9004;Tia Salscheider;;;NP;12;12;7104;16.20;43839
+MN;;;1010;Council Member (Inver Grove Heights) (Elect 2);31076;9005;Tony Scales;;;NP;12;12;5621;12.82;43839
+MN;;;1010;Council Member (Inver Grove Heights) (Elect 2);31076;9006;Craig Kromrey;;;NP;12;12;5726;13.06;43839
+MN;;;1010;Council Member (Inver Grove Heights) (Elect 2);31076;9007;Matt Mills;;;NP;12;12;6993;15.95;43839
+MN;;;1001;Mayor (Isanti);31328;9001;Christopher Brooks;;;NP;2;2;1210;29.45;4109
+MN;;;1001;Mayor (Isanti);31328;9002;Luke Merrill;;;NP;2;2;906;22.05;4109
+MN;;;1001;Mayor (Isanti);31328;9003;Joshua Augustine Lehn;;;NP;2;2;801;19.49;4109
+MN;;;1001;Mayor (Isanti);31328;9004;Jeff Johnson;;;NP;2;2;1192;29.01;4109
+MN;;;1022;Council Member Ward 2 (Luverne);38564;9001;Mike Davis;;;NP;2;2;1028;30.79;3339
+MN;;;1022;Council Member Ward 2 (Luverne);38564;9002;Lori Ann Hallstrom;;;NP;2;2;1052;31.51;3339
+MN;;;1022;Council Member Ward 2 (Luverne);38564;9003;Tom Lanoue;;;NP;2;2;1259;37.71;3339
+MN;;;1001;Mayor (Mankato);39878;9001;Julia Hamann;;;NP;19;19;9671;32.88;29414
+MN;;;1001;Mayor (Mankato);39878;9002;Toby Leonard;;;NP;19;19;10105;34.35;29414
+MN;;;1001;Mayor (Mankato);39878;9003;Najwa Massad;;;NP;19;19;9638;32.77;29414
+MN;;;1001;Mayor (Maplewood);40382;9001;Marylee Abrams;;;NP;13;13;7737;37.68;20536
+MN;;;1001;Mayor (Maplewood);40382;9002;Chonburi Lee;;;NP;13;13;6761;32.92;20536
+MN;;;1001;Mayor (Maplewood);40382;9003;Diana Longrie;;;NP;13;13;6038;29.40;20536
+MN;;;1012;Special Election for Council Member (New Hope);45628;9001;Brock Ray;;;NP;8;8;4087;35.70;11448
+MN;;;1012;Special Election for Council Member (New Hope);45628;9002;Mark Wagner;;;NP;8;8;3506;30.63;11448
+MN;;;1012;Special Election for Council Member (New Hope);45628;9003;Rachelle Hamilton;;;NP;8;8;3855;33.67;11448
+MN;;;1010;Council Member At Large (Northfield);46924;9001;Katy Vondrasek;;;NP;8;8;3108;33.93;9160
+MN;;;1010;Council Member At Large (Northfield);46924;9002;Thor Keilen;;;NP;8;8;3707;40.47;9160
+MN;;;1010;Council Member At Large (Northfield);46924;9003;Adam Wale;;;NP;8;8;2345;25.60;9160
+MN;;;1026;Council Member Ward 4 (Northfield);46924;9001;Peder Jothen;;;NP;2;2;908;28.64;3170
+MN;;;1026;Council Member Ward 4 (Northfield);46924;9002;Dave "Superdave" Juntunen;;;NP;2;2;1259;39.72;3170
+MN;;;1026;Council Member Ward 4 (Northfield);46924;9003;James Clinton;;;NP;2;2;1003;31.64;3170
+MN;;;1010;Council Member At Large (Ramsey);53026;9001;Justin Dahl;;;NP;9;9;4077;32.27;12634
+MN;;;1010;Council Member At Large (Ramsey);53026;9002;Debra Musgrove;;;NP;9;9;4858;38.45;12634
+MN;;;1010;Council Member At Large (Ramsey);53026;9003;Kelly Muchowski;;;NP;9;9;3699;29.28;12634
+MN;;;1010;Council Member At Large (Richfield);54214;9001;Sharon Christensen;;;NP;9;9;3959;28.33;13976
+MN;;;1010;Council Member At Large (Richfield);54214;9002;Emily - Em - Antin;;;NP;9;9;4605;32.95;13976
+MN;;;1010;Council Member At Large (Richfield);54214;9003;Aaron McKain;;;NP;9;9;5412;38.72;13976
+MN;;;1001;Mayor (Rochester);54880;9001;Jess Garcia;;;NP;80;80;36845;11.51;320181
+MN;;;1001;Mayor (Rochester);54880;9002;Molly Dennis;;;NP;80;80;41900;13.09;320181
+MN;;;1001;Mayor (Rochester);54880;9003;Joe Powers;;;NP;80;80;41493;12.96;320181
+MN;;;1001;Mayor (Rochester);54880;9004;Walé Elegbede;;;NP;80;80;40625;12.69;320181
+MN;;;1001;Mayor (Rochester);54880;9005;Axe Abdimajid Ahmed;;;NP;80;80;36781;11.49;320181
+MN;;;1001;Mayor (Rochester);54880;9006;Jerrod Lucker;;;NP;80;80;39870;12.45;320181
+MN;;;1001;Mayor (Rochester);54880;9007;Benjamin Zastrow;;;NP;80;80;41469;12.95;320181
+MN;;;1001;Mayor (Rochester);54880;9008;Ayub HajiOmar;;;NP;80;80;41198;12.87;320181
+MN;;;1028;Council Member District 5 (Rochester);54880;9001;Ruchi Gupta;;;NP;14;14;6109;32.19;18977
+MN;;;1028;Council Member District 5 (Rochester);54880;9002;Shaun C. Palmer;;;NP;14;14;6211;32.73;18977
+MN;;;1028;Council Member District 5 (Rochester);54880;9003;Acacia Ward;;;NP;14;14;6657;35.08;18977
+MN;;;1010;Council Member (Rogers) (Elect 2);55186;9001;Matthew Nakajima Finn;;;NP;3;3;1907;19.92;9573
+MN;;;1010;Council Member (Rogers) (Elect 2);55186;9002;Adam Hunt;;;NP;3;3;1882;19.66;9573
+MN;;;1010;Council Member (Rogers) (Elect 2);55186;9003;Rick Ihli;;;NP;3;3;1293;13.51;9573
+MN;;;1010;Council Member (Rogers) (Elect 2);55186;9004;Ashraf Wahba;;;NP;3;3;1346;14.06;9573
+MN;;;1010;Council Member (Rogers) (Elect 2);55186;9005;John Patrick Dierberger;;;NP;3;3;1613;16.85;9573
+MN;;;1010;Council Member (Rogers) (Elect 2);55186;9006;Christian Grams;;;NP;3;3;1532;16.00;9573
+MN;;;1001;Mayor (Roseville);55852;9001;Dan Roe;;;NP;11;11;7159;40.83;17535
+MN;;;1001;Mayor (Roseville);55852;9002;Matthew Drwall;;;NP;11;11;5560;31.71;17535
+MN;;;1001;Mayor (Roseville);55852;9003;Roger B. Hess Jr.;;;NP;11;11;4816;27.47;17535
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9001;Rebecca Carlson;;;NP;11;11;5131;12.77;40168
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9002;Bruce K. Bester;;;NP;11;11;5117;12.74;40168
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9003;Wayne Groff;;;NP;11;11;5968;14.86;40168
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9004;Erik Noren;;;NP;11;11;5563;13.85;40168
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9005;Cassie Iverson;;;NP;11;11;6067;15.10;40168
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9006;Kevin Nicholson;;;NP;11;11;3803;9.47;40168
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9007;Siafa Barclay;;;NP;11;11;4820;12.00;40168
+MN;;;1010;Council Member (Roseville) (Elect 2);55852;9008;Alexis Cran;;;NP;11;11;3699;9.21;40168
+MN;;;1021;Special Election for Council Member Ward 1 (St. Cloud);56896;9001;Charlie Hobbs;;;NP;7;7;3280;31.95;10267
+MN;;;1021;Special Election for Council Member Ward 1 (St. Cloud);56896;9002;Dave Masters;;;NP;7;7;3353;32.66;10267
+MN;;;1021;Special Election for Council Member Ward 1 (St. Cloud);56896;9003;Dreyton Nichols;;;NP;7;7;3634;35.39;10267
+MN;;;1027;Special Election for Council Member Ward 4 (St. Cloud);56896;9001;Joe Baratta;;;NP;7;7;4040;27.42;14735
+MN;;;1027;Special Election for Council Member Ward 4 (St. Cloud);56896;9002;Zak X;;;NP;7;7;4170;28.30;14735
+MN;;;1027;Special Election for Council Member Ward 4 (St. Cloud);56896;9003;Craig Heurung;;;NP;7;7;3033;20.58;14735
+MN;;;1027;Special Election for Council Member Ward 4 (St. Cloud);56896;9004;Amaan Abdi;;;NP;7;7;3492;23.70;14735
+MN;;;1001;Mayor (St. Francis);56950;9001;Mark Vogel;;;NP;3;3;1674;35.35;4736
+MN;;;1001;Mayor (St. Francis);56950;9002;Sarah Udvig;;;NP;3;3;1977;41.74;4736
+MN;;;1001;Mayor (St. Francis);56950;9003;Aaron Hill;;;NP;3;3;1085;22.91;4736
+MN;;;1010;Council Member At Large (St. Francis) (Elect 2);56950;9001;Tina Carroll;;;NP;3;3;1645;21.48;7660
+MN;;;1010;Council Member At Large (St. Francis) (Elect 2);56950;9002;Kevin Robinson;;;NP;3;3;1588;20.73;7660
+MN;;;1010;Council Member At Large (St. Francis) (Elect 2);56950;9003;Mike Rodger;;;NP;3;3;1292;16.87;7660
+MN;;;1010;Council Member At Large (St. Francis) (Elect 2);56950;9004;Denny Christenson;;;NP;3;3;1896;24.75;7660
+MN;;;1010;Council Member At Large (St. Francis) (Elect 2);56950;9005;MaraLynn Kubacki;;;NP;3;3;1239;16.17;7660
+MN;;;1010;Council Member (South St. Paul) (Elect 3);61492;9001;Gusta G. Carr;;;NP;6;6;2560;11.84;21628
+MN;;;1010;Council Member (South St. Paul) (Elect 3);61492;9002;Joseph Kaliszewski;;;NP;6;6;2414;11.16;21628
+MN;;;1010;Council Member (South St. Paul) (Elect 3);61492;9003;Tyler C. Fehrman;;;NP;6;6;3551;16.42;21628
+MN;;;1010;Council Member (South St. Paul) (Elect 3);61492;9004;Matthew Thompson;;;NP;6;6;2831;13.09;21628
+MN;;;1010;Council Member (South St. Paul) (Elect 3);61492;9005;Daniel Nundahl;;;NP;6;6;3732;17.26;21628
+MN;;;1010;Council Member (South St. Paul) (Elect 3);61492;9006;Margaret Durenberger;;;NP;6;6;3745;17.32;21628
+MN;;;1010;Council Member (South St. Paul) (Elect 3);61492;9007;Brian Ducklinsky;;;NP;6;6;2795;12.92;21628
+MN;;;1010;Council Member At Large (Spring Valley) (Elect 2);62104;9001;Brand Ingalls;;;NP;1;1;671;31.68;2118
+MN;;;1010;Council Member At Large (Spring Valley) (Elect 2);62104;9002;Greg Melartin;;;NP;1;1;83;3.92;2118
+MN;;;1010;Council Member At Large (Spring Valley) (Elect 2);62104;9003;Luan R. Ruesink;;;NP;1;1;368;17.37;2118
+MN;;;1010;Council Member At Large (Spring Valley) (Elect 2);62104;9004;Brent Allen Kohn;;;NP;1;1;598;28.23;2118
+MN;;;1010;Council Member At Large (Spring Valley) (Elect 2);62104;9005;Brent Eisenman;;;NP;1;1;398;18.79;2118
+MN;;;1001;Mayor (Willmar);70420;9001;Rollie Nissen;;;NP;13;13;4760;19.62;24266
+MN;;;1001;Mayor (Willmar);70420;9002;Sarah Rose Vasquez;;;NP;13;13;5801;23.91;24266
+MN;;;1001;Mayor (Willmar);70420;9003;Justin Ask;;;NP;13;13;6330;26.09;24266
+MN;;;1001;Mayor (Willmar);70420;9004;Zeke Dahl;;;NP;13;13;7375;30.39;24266

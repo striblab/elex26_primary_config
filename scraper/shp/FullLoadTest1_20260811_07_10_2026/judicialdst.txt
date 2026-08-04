@@ -1,0 +1,3 @@
+MN;;;9237;Judge - 10th District Court 38;10;9001;Ben Lacy;;;NP;409;409;193963;32.23;601800
+MN;;;9237;Judge - 10th District Court 38;10;9002;Rebecca A. Waxse;;;NP;409;409;208598;34.66;601800
+MN;;;9237;Judge - 10th District Court 38;10;9003;Mack Guptil;;;NP;409;409;199239;33.11;601800

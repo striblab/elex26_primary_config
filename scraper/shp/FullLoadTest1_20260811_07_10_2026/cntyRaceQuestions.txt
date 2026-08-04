@@ -1,0 +1,182 @@
+MN;01;;0391;County Commissioner District 1;01;9001;Timothy Catlin;;;NP;0;2;0;0.00;0
+MN;01;;0391;County Commissioner District 1;01;9002;Christopher S. Dotzler;;;NP;0;2;0;0.00;0
+MN;01;;0391;County Commissioner District 1;01;9003;J. Mark Wedel;;;NP;0;2;0;0.00;0
+MN;02;;0393;County Commissioner District 3;03;9001;Jeff Reinert;;;NP;0;18;0;0.00;0
+MN;02;;0393;County Commissioner District 3;03;9002;Melissa "Mel" Lawlis;;;NP;0;18;0;0.00;0
+MN;02;;0393;County Commissioner District 3;03;9003;Kevin Ryan;;;NP;0;18;0;0.00;0
+MN;02;;0394;County Commissioner District 4;04;9001;Michael Nordstrom;;;NP;0;17;0;0.00;0
+MN;02;;0394;County Commissioner District 4;04;9002;Jennifer (Jenny) Geisler;;;NP;0;17;0;0.00;0
+MN;02;;0394;County Commissioner District 4;04;9003;Jerry Koch;;;NP;0;17;0;0.00;0
+MN;03;;0400;County Auditor/Treasurer;;9001;Zac Baer;;;NP;0;47;0;0.00;0
+MN;03;;0400;County Auditor/Treasurer;;9002;Brent Benscoter;;;NP;0;47;0;0.00;0
+MN;03;;0400;County Auditor/Treasurer;;9003;Kim Frederick;;;NP;0;47;0;0.00;0
+MN;03;;0400;County Auditor/Treasurer;;9004;Darin O Halvorson;;;NP;0;47;0;0.00;0
+MN;03;;0400;County Auditor/Treasurer;;9005;Nathan Martin;;;NP;0;47;0;0.00;0
+MN;03;;0400;County Auditor/Treasurer;;9006;Amy Rosing;;;NP;0;47;0;0.00;0
+MN;07;;0393;Special Election for County Commissioner District 3;03;9001;Ross E. Arneson;;;NP;0;6;0;0.00;0
+MN;07;;0393;Special Election for County Commissioner District 3;03;9002;Jack Considine;;;NP;0;6;0;0.00;0
+MN;07;;0393;Special Election for County Commissioner District 3;03;9003;Dave Karge;;;NP;0;6;0;0.00;0
+MN;09;;0404;County Sheriff;;9001;Chad Walsh;;;NP;0;39;0;0.00;0
+MN;09;;0404;County Sheriff;;9002;Dan Danielson;;;NP;0;39;0;0.00;0
+MN;09;;0404;County Sheriff;;9003;Jason Syrett;;;NP;0;39;0;0.00;0
+MN;10;;0404;County Sheriff;;9001;Matt Steen;;;NP;0;39;0;0.00;0
+MN;10;;0404;County Sheriff;;9002;Patrick Barry;;;NP;0;39;0;0.00;0
+MN;10;;0404;County Sheriff;;9003;Jessica Heger;;;NP;0;39;0;0.00;0
+MN;10;;0404;County Sheriff;;9004;Darrell Huggett;;;NP;0;39;0;0.00;0
+MN;10;;0404;County Sheriff;;9005;Adam Moore;;;NP;0;39;0;0.00;0
+MN;11;;0393;Special Election for County Commissioner District 3;03;9001;Aaron Young;;;NP;0;22;0;0.00;0
+MN;11;;0393;Special Election for County Commissioner District 3;03;9002;Jim Lundgren;;;NP;0;22;0;0.00;0
+MN;11;;0393;Special Election for County Commissioner District 3;03;9003;Fred Hage;;;NP;0;22;0;0.00;0
+MN;11;;0393;Special Election for County Commissioner District 3;03;9004;Leslie Bouchonville;;;NP;0;22;0;0.00;0
+MN;11;;0394;County Commissioner District 4;04;9001;Tyler Seifert;;;NP;0;11;0;0.00;0
+MN;11;;0394;County Commissioner District 4;04;9002;Scott Thompson;;;NP;0;11;0;0.00;0
+MN;11;;0394;County Commissioner District 4;04;9003;Scott D Bruns;;;NP;0;11;0;0.00;0
+MN;13;;0392;County Commissioner District 2;02;9001;Rick Greene;;;NP;0;8;0;0.00;0
+MN;13;;0392;County Commissioner District 2;02;9002;Chris DuBose;;;NP;0;8;0;0.00;0
+MN;13;;0392;County Commissioner District 2;02;9003;Paula Hanson;;;NP;0;8;0;0.00;0
+MN;14;;0394;County Commissioner District 4;04;9001;Josh Amundson;;;NP;0;5;0;0.00;0
+MN;14;;0394;County Commissioner District 4;04;9002;Julian Dahlquist;;;NP;0;5;0;0.00;0
+MN;14;;0394;County Commissioner District 4;04;9003;Scott Steffes;;;NP;0;5;0;0.00;0
+MN;15;;0404;County Sheriff;;9001;Clarence LaCroix;;;NP;0;29;0;0.00;0
+MN;15;;0404;County Sheriff;;9002;Adam Gunderson;;;NP;0;29;0;0.00;0
+MN;15;;0404;County Sheriff;;9003;Vern Wittenberg;;;NP;0;29;0;0.00;0
+MN;15;;0404;County Sheriff;;9004;Larry D. Johnson;;;NP;0;29;0;0.00;0
+MN;16;;0391;County Commissioner District 1;01;9001;Christine Childs;;;NP;0;3;0;0.00;0
+MN;16;;0391;County Commissioner District 1;01;9002;Matt Kelm;;;NP;0;3;0;0.00;0
+MN;16;;0391;County Commissioner District 1;01;9003;Debra K. White;;;NP;0;3;0;0.00;0
+MN;18;;0394;County Commissioner District 4;04;9001;Dawn Espe;;;NP;1;6;8;42.11;19
+MN;18;;0394;County Commissioner District 4;04;9002;Troy Kenneth Scheffler;;;NP;1;6;5;26.32;19
+MN;18;;0394;County Commissioner District 4;04;9003;Rosemary Franzen;;;NP;1;6;6;31.58;19
+MN;19;;0396;County Commissioner District 6;06;9001;Brian "Baldy" Wheeler;;;NP;0;16;0;0.00;0
+MN;19;;0396;County Commissioner District 6;06;9002;Jacob Borealis;;;NP;0;16;0;0.00;0
+MN;19;;0396;County Commissioner District 6;06;9003;Mary Liz Holberg;;;NP;0;16;0;0.00;0
+MN;19;;0396;County Commissioner District 6;06;9004;Maggie Droen;;;NP;0;16;0;0.00;0
+MN;22;;0394;County Commissioner District 4;04;9001;Arron Kalis;;;NP;0;8;0;0.00;0
+MN;22;;0394;County Commissioner District 4;04;9002;Darrel L. Robertson;;;NP;0;8;0;0.00;0
+MN;22;;0394;County Commissioner District 4;04;9003;Dana James Gates;;;NP;0;8;0;0.00;0
+MN;22;;0394;County Commissioner District 4;04;9004;Jacob Kral;;;NP;0;8;0;0.00;0
+MN;23;;0394;County Commissioner District 4;04;9001;Shona Langseth;;;NP;0;8;0;0.00;0
+MN;23;;0394;County Commissioner District 4;04;9002;Justin Redalen;;;NP;0;8;0;0.00;0
+MN;23;;0394;County Commissioner District 4;04;9003;Dan Schmidt;;;NP;0;8;0;0.00;0
+MN;27;;0392;County Commissioner District 2;02;9001;Sharon El-Amin;;;NP;0;56;0;0.00;0
+MN;27;;0392;County Commissioner District 2;02;9002;Makeda Zulu;;;NP;0;56;0;0.00;0
+MN;27;;0392;County Commissioner District 2;02;9003;Viviana Salazar;;;NP;0;56;0;0.00;0
+MN;27;;0392;County Commissioner District 2;02;9004;Irene Fernando;;;NP;0;56;0;0.00;0
+MN;27;;0393;County Commissioner District 3;03;9001;Marion Greene;;;NP;0;57;0;0.00;0
+MN;27;;0393;County Commissioner District 3;03;9002;Josh Bassais;;;NP;0;57;0;0.00;0
+MN;27;;0393;County Commissioner District 3;03;9003;Anthony Walsh;;;NP;0;57;0;0.00;0
+MN;27;;0393;County Commissioner District 3;03;9004;Kevin Chavis;;;NP;0;57;0;0.00;0
+MN;27;;0393;County Commissioner District 3;03;9005;Abdihakim Arabow Ibrahim;;;NP;0;57;0;0.00;0
+MN;27;;0393;County Commissioner District 3;03;9006;Anthony Abousweid;;;NP;0;57;0;0.00;0
+MN;27;;0405;County Attorney;;9001;Matt Pelikan;;;NP;0;395;0;0.00;0
+MN;27;;0405;County Attorney;;9002;Diane M. Krenz;;;NP;0;395;0;0.00;0
+MN;27;;0405;County Attorney;;9003;Cedrick Frazier;;;NP;0;395;0;0.00;0
+MN;27;;0405;County Attorney;;9004;Anders Folk;;;NP;0;395;0;0.00;0
+MN;27;;0405;County Attorney;;9005;Hao Nguyen;;;NP;0;395;0;0.00;0
+MN;27;;0411;County Park Commissioner District 1;1;9001;Marge Beard;;;NP;0;60;0;0.00;0
+MN;27;;0411;County Park Commissioner District 1;1;9002;Melvin A. Knapton;;;NP;0;60;0;0.00;0
+MN;27;;0411;County Park Commissioner District 1;1;9003;Joey Rodriguez;;;NP;0;60;0;0.00;0
+MN;27;;0411;County Park Commissioner District 1;1;9004;Declan McCrory;;;NP;0;60;0;0.00;0
+MN;30;;0395;County Commissioner District 5;05;9001;Stephanie Aronson;;;NP;0;4;0;0.00;0
+MN;30;;0395;County Commissioner District 5;05;9002;Kristi L. LaRowe;;;NP;0;4;0;0.00;0
+MN;30;;0395;County Commissioner District 5;05;9003;Joseph Fischer;;;NP;0;4;0;0.00;0
+MN;31;;0391;County Commissioner District 1;01;9001;Lonny Witkofsky;;;NP;0;29;0;0.00;0
+MN;31;;0391;County Commissioner District 1;01;9002;Cory Smith;;;NP;0;29;0;0.00;0
+MN;31;;0391;County Commissioner District 1;01;9003;Chris Reed;;;NP;0;29;0;0.00;0
+MN;35;;0393;County Commissioner District 3;03;9001;Loren Younggren;;;NP;0;1;0;0.00;0
+MN;35;;0393;County Commissioner District 3;03;9002;Michael J Docken;;;NP;0;1;0;0.00;0
+MN;35;;0393;County Commissioner District 3;03;9003;Naomi Larson;;;NP;0;1;0;0.00;0
+MN;35;;0393;County Commissioner District 3;03;9004;Jennifer Peterson;;;NP;0;1;0;0.00;0
+MN;40;;0392;County Commissioner District 2;02;9002;Joe Schloesser;;;NP;0;5;0;0.00;0
+MN;40;;0392;County Commissioner District 2;02;9003;Jim Reeder;;;NP;0;5;0;0.00;0
+MN;40;;0392;County Commissioner District 2;02;9004;Danny O'Keefe;;;NP;0;5;0;0.00;0
+MN;40;;0392;County Commissioner District 2;02;9005;Mark Ehmke;;;NP;0;5;0;0.00;0
+MN;40;;0394;County Commissioner District 4;04;9001;Tessie Splett;;;NP;0;6;0;0.00;0
+MN;40;;0394;County Commissioner District 4;04;9002;Travis Bowman;;;NP;0;6;0;0.00;0
+MN;40;;0394;County Commissioner District 4;04;9003;David Preisler;;;NP;0;6;0;0.00;0
+MN;40;;0395;County Commissioner District 5;05;9001;Sean P. McMahon;;;NP;0;9;0;0.00;0
+MN;40;;0395;County Commissioner District 5;05;9002;Tina King;;;NP;0;9;0;0.00;0
+MN;40;;0395;County Commissioner District 5;05;9003;Kenneth Warning;;;NP;0;9;0;0.00;0
+MN;44;;0393;County Commissioner District 3;03;9001;Tyler Anderson;;;NP;0;2;0;0.00;0
+MN;44;;0393;County Commissioner District 3;03;9002;Larry Olson;;;NP;0;2;0;0.00;0
+MN;44;;0393;County Commissioner District 3;03;9003;Geri Lyn Lopez;;;NP;0;2;0;0.00;0
+MN;44;;0393;County Commissioner District 3;03;9004;James (Jay) Jurina;;;NP;0;2;0;0.00;0
+MN;44;;0394;County Commissioner District 4;04;9001;Scott McCollum;;;NP;0;5;0;0.00;0
+MN;44;;0394;County Commissioner District 4;04;9002;Joe Swiers;;;NP;0;5;0;0.00;0
+MN;44;;0394;County Commissioner District 4;04;9003;Tina Starkey;;;NP;0;5;0;0.00;0
+MN;54;;0393;County Commissioner District 3;03;9001;Neil E. Hultin;;;NP;0;9;0;0.00;0
+MN;54;;0393;County Commissioner District 3;03;9002;Angela Nelson;;;NP;0;9;0;0.00;0
+MN;54;;0393;County Commissioner District 3;03;9003;Curt H. Johannsen;;;NP;0;9;0;0.00;0
+MN;54;;0393;County Commissioner District 3;03;9004;Andrew Jossund;;;NP;0;9;0;0.00;0
+MN;54;;0394;County Commissioner District 4;04;9001;Myron Moteberg;;;NP;0;1;0;0.00;0
+MN;54;;0394;County Commissioner District 4;04;9002;Thomas Opheim;;;NP;0;1;0;0.00;0
+MN;54;;0394;County Commissioner District 4;04;9003;John Hintz;;;NP;0;1;0;0.00;0
+MN;55;;0392;County Commissioner District 2;02;9001;Karuna Ojanen;;;NP;0;15;0;0.00;0
+MN;55;;0392;County Commissioner District 2;02;9002;David H. Senjem;;;NP;0;15;0;0.00;0
+MN;55;;0392;County Commissioner District 2;02;9003;Gabe Perkins;;;NP;0;15;0;0.00;0
+MN;55;;0396;County Commissioner District 6;06;9001;Michael Wojcik;;;NP;0;15;0;0.00;0
+MN;55;;0396;County Commissioner District 6;06;9002;Bob Hopkins;;;NP;0;15;0;0.00;0
+MN;55;;0396;County Commissioner District 6;06;9003;Tawonda Burks;;;NP;0;15;0;0.00;0
+MN;56;;0392;County Commissioner District 2;02;9001;Wayne D. Johnson;;;NP;0;21;0;0.00;0
+MN;56;;0392;County Commissioner District 2;02;9002;Jeff Gontarek;;;NP;0;21;0;0.00;0
+MN;56;;0392;County Commissioner District 2;02;9003;Kyle Lehmann;;;NP;0;21;0;0.00;0
+MN;56;;0394;County Commissioner District 4;04;9001;Jim Stewart;;;NP;0;23;0;0.00;0
+MN;56;;0394;County Commissioner District 4;04;9002;Robert (Bob) Lahman;;;NP;0;23;0;0.00;0
+MN;56;;0394;County Commissioner District 4;04;9003;Roger D. Walvatne;;;NP;0;23;0;0.00;0
+MN;56;;0394;County Commissioner District 4;04;9004;Stephen Springer;;;NP;0;23;0;0.00;0
+MN;58;;0391;County Commissioner District 1;01;9001;Jay Samuelson;;;NP;0;3;0;0.00;0
+MN;58;;0391;County Commissioner District 1;01;9002;Abbie Raudabaugh;;;NP;0;3;0;0.00;0
+MN;58;;0391;County Commissioner District 1;01;9003;Steve Olson;;;NP;0;3;0;0.00;0
+MN;59;;0392;County Commissioner District 2;02;9001;Scott Ploeger;;;NP;0;6;0;0.00;0
+MN;59;;0392;County Commissioner District 2;02;9002;Rodney Altena;;;NP;0;6;0;0.00;0
+MN;59;;0392;County Commissioner District 2;02;9003;Thomas Haag;;;NP;0;6;0;0.00;0
+MN;59;;0404;County Sheriff;;9001;Troy J. Wenzel;;;NP;0;22;0;0.00;0
+MN;59;;0404;County Sheriff;;9002;Edison Dengler;;;NP;0;22;0;0.00;0
+MN;59;;0404;County Sheriff;;9003;Dustin Seiler;;;NP;0;22;0;0.00;0
+MN;60;;0392;County Commissioner District 2;02;9001;Leonard Vonasek;;;NP;0;19;0;0.00;0
+MN;60;;0392;County Commissioner District 2;02;9002;Douglas James Cariveau;;;NP;0;19;0;0.00;0
+MN;60;;0392;County Commissioner District 2;02;9003;Curtis Knutson;;;NP;0;19;0;0.00;0
+MN;62;;0395;County Commissioner District 5;05;9001;Charles S Barklind;;;NP;0;22;0;0.00;0
+MN;62;;0395;County Commissioner District 5;05;9002;María Isa Pérez-Vega;;;NP;0;22;0;0.00;0
+MN;62;;0395;County Commissioner District 5;05;9003;Rebecca Noecker;;;NP;0;22;0;0.00;0
+MN;66;;0394;County Commissioner District 4;04;9001;Steve Underdahl;;;NP;0;3;0;0.00;0
+MN;66;;0394;County Commissioner District 4;04;9002;Mark Hlady;;;NP;0;3;0;0.00;0
+MN;66;;0394;County Commissioner District 4;04;9003;David A. Blais;;;NP;0;3;0;0.00;0
+MN;67;;0393;Special Election for County Commissioner District 3;03;9001;Deon Carriere;;;NP;0;5;0;0.00;0
+MN;67;;0393;Special Election for County Commissioner District 3;03;9002;Rick Peterson;;;NP;0;5;0;0.00;0
+MN;67;;0393;Special Election for County Commissioner District 3;03;9099;WRITE-IN;;;NP;0;5;0;0.00;0
+MN;69;;0391;County Commissioner District 1;01;9001;Annie Harala;;;NP;0;10;0;0.00;0
+MN;69;;0391;County Commissioner District 1;01;9002;Kris Eilers;;;NP;0;10;0;0.00;0
+MN;69;;0391;County Commissioner District 1;01;9003;John Socha;;;NP;0;10;0;0.00;0
+MN;70;;0395;County Commissioner District 5;05;9001;Drew Christensen;;;NP;0;9;0;0.00;0
+MN;70;;0395;County Commissioner District 5;05;9002;Gabriela Kroetch;;;NP;0;9;0;0.00;0
+MN;70;;0395;County Commissioner District 5;05;9003;Christine Kelly;;;NP;0;9;0;0.00;0
+MN;70;;0395;County Commissioner District 5;05;9004;Bob Coughlen;;;NP;0;9;0;0.00;0
+MN;70;;0405;County Attorney;;9001;Ron Hocevar;;;NP;0;54;0;0.00;0
+MN;70;;0405;County Attorney;;9002;Todd Zettler;;;NP;0;54;0;0.00;0
+MN;70;;0405;County Attorney;;9003;Allen Andersen;;;NP;0;54;0;0.00;0
+MN;71;;0393;County Commissioner District 3;03;9001;Mark Swanson;;;NP;0;6;0;0.00;0
+MN;71;;0393;County Commissioner District 3;03;9002;Gregg Felber;;;NP;0;6;0;0.00;0
+MN;71;;0393;County Commissioner District 3;03;9003;Matt J Bischoff;;;NP;0;6;0;0.00;0
+MN;72;;0391;County Commissioner District 1;01;9001;Daniel Widmer;;;NP;0;7;0;0.00;0
+MN;72;;0391;County Commissioner District 1;01;9002;John G Pioske;;;NP;0;7;0;0.00;0
+MN;72;;0391;County Commissioner District 1;01;9003;Travis Patterson;;;NP;0;7;0;0.00;0
+MN;72;;0391;County Commissioner District 1;01;9004;Mark D. Brandt;;;NP;0;7;0;0.00;0
+MN;72;;0395;County Commissioner District 5;05;9001;Kaitlyn Becker;;;NP;0;6;0;0.00;0
+MN;72;;0395;County Commissioner District 5;05;9002;Brandon Nelson;;;NP;0;6;0;0.00;0
+MN;72;;0395;County Commissioner District 5;05;9003;A. Bradley "Brad" DeBoer;;;NP;0;6;0;0.00;0
+MN;80;;0404;County Sheriff;;9001;Troy Wangsness;;;NP;0;24;0;0.00;0
+MN;80;;0404;County Sheriff;;9002;Bryan Savaloja;;;NP;0;24;0;0.00;0
+MN;80;;0404;County Sheriff;;9003;Cory Carr;;;NP;0;24;0;0.00;0
+MN;80;;0404;County Sheriff;;9004;Milo Scott;;;NP;0;24;0;0.00;0
+MN;80;;0404;County Sheriff;;9005;Aaron Schiller;;;NP;0;24;0;0.00;0
+MN;82;;0404;County Sheriff;;9001;Brian R. Mueller;;;NP;0;84;0;0.00;0
+MN;82;;0404;County Sheriff;;9002;Jeremy Bolen;;;NP;0;84;0;0.00;0
+MN;82;;0404;County Sheriff;;9003;Henry Mathia;;;NP;0;84;0;0.00;0
+MN;86;;0391;County Commissioner District 1;01;9001;Terry Strege;;;NP;0;12;0;0.00;0
+MN;86;;0391;County Commissioner District 1;01;9002;Bradley Kurtz;;;NP;0;12;0;0.00;0
+MN;86;;0391;County Commissioner District 1;01;9003;Christine A Husom;;;NP;0;12;0;0.00;0
+MN;86;;0391;County Commissioner District 1;01;9004;Joe Paumen;;;NP;0;12;0;0.00;0
+MN;86;;0394;County Commissioner District 4;04;9001;Nadine Schoen;;;NP;0;8;0;0.00;0
+MN;86;;0394;County Commissioner District 4;04;9002;Joy Harken;;;NP;0;8;0;0.00;0
+MN;86;;0394;County Commissioner District 4;04;9003;Drew Scherber;;;NP;0;8;0;0.00;0

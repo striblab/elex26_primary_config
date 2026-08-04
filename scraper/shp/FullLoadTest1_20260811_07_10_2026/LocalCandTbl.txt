@@ -1,0 +1,225 @@
+0172010109001;Andrew Boho;1010;Council Member At Large (Anoka) (Elect 2);02;01720;
+0172010109002;Marissa Carroll;1010;Council Member At Large (Anoka) (Elect 2);02;01720;
+0172010109003;Jackie Young;1010;Council Member At Large (Anoka) (Elect 2);02;01720;
+0172010109004;Sam Scott;1010;Council Member At Large (Anoka) (Elect 2);02;01720;
+0172010109005;Joelle Alvord;1010;Council Member At Large (Anoka) (Elect 2);02;01720;
+0290810209001;Tom Compton;1020;Council Member Ward 1 (Austin);50;02908;
+0290810209002;Laura Helle;1020;Council Member Ward 1 (Austin);50;02908;
+0290810209003;Dayton Kehret;1020;Council Member Ward 1 (Austin);50;02908;
+0290810249001;Oballa Oballa;1024;Council Member Ward 3 (Austin);50;02908;
+0290810249002;Jeremy Hoffman;1024;Council Member Ward 3 (Austin);50;02908;
+0290810249003;Cindy K. Stahl;1024;Council Member Ward 3 (Austin);50;02908;
+0290810249004;Kris Heichel;1024;Council Member Ward 3 (Austin);50;02908;
+0483410109001;Shane Theas;1010;Council Member (Belle Plaine) (Elect 2);70;04834;
+0483410109002;Dell Williams;1010;Council Member (Belle Plaine) (Elect 2);70;04834;
+0483410109003;Brent Shaughnessy;1010;Council Member (Belle Plaine) (Elect 2);70;04834;
+0483410109004;Sarah Duklet;1010;Council Member (Belle Plaine) (Elect 2);70;04834;
+0483410109005;Nelson Ladd;1010;Council Member (Belle Plaine) (Elect 2);70;04834;
+0506810109001;Grace Wilder;1010;Council Member At Large (Bemidji);04;05068;
+0506810109002;Ron Johnson;1010;Council Member At Large (Bemidji);04;05068;
+0506810109003;Audrey M. Thayer;1010;Council Member At Large (Bemidji);04;05068;
+0638210209001;Alex Tierney;1020;Council Member Ward 1 (Blaine);02;06382;
+0638210209002;Tom Newland;1020;Council Member Ward 1 (Blaine);02;06382;
+0638210209003;Richard Paul;1020;Council Member Ward 1 (Blaine);02;06382;
+0654440109001;Levi Nagel;4010;Special Election for Town Supervisor Seat 1 (Bloomfield Township);23;06544;
+0654440109002;Shawn Merkel;4010;Special Election for Town Supervisor Seat 1 (Bloomfield Township);23;06544;
+0794810019001;Laurie Ann Moore;1001;Mayor (Brooklyn Center);27;07948;
+0794810019002;Teneshia Kragness;1001;Mayor (Brooklyn Center);27;07948;
+0794810019003;Alexander Koenig;1001;Mayor (Brooklyn Center);27;07948;
+0794810019004;Latrecia J. Mayo;1001;Mayor (Brooklyn Center);27;07948;
+0794810109001;Georgette Byers;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109002;Justin McGuire;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109003;Jacob Carter;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109004;Aniya White;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109005;Gretchen Enger;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109006;Nahid Khan;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109007;Mark Viste;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109008;Ebonie L. McMillan;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0794810109009;Dan Jerzak;1010;Council Member (Brooklyn Center) (Elect 2);27;07948;
+0796610019001;Hollies J. Winston;1001;Mayor (Brooklyn Park);27;07966;
+0796610019002;Maria Tran;1001;Mayor (Brooklyn Park);27;07966;
+0796610019003;Boyd Morson;1001;Mayor (Brooklyn Park);27;07966;
+0796610019004;Shelle Page;1001;Mayor (Brooklyn Park);27;07966;
+0796610209001;Philip Seton Gaye-Bai;1020;Council Member Ward E (Brooklyn Park);27;07966;
+0796610209002;Allen Miskowiec;1020;Council Member Ward E (Brooklyn Park);27;07966;
+0796610209003;Aaron Endris;1020;Council Member Ward E (Brooklyn Park);27;07966;
+0796610209004;Christian Eriksen;1020;Council Member Ward E (Brooklyn Park);27;07966;
+0879410109001;Dan Kealey;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0879410109002;Tunisia Irby;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0879410109003;Catarina "Cati" Gómez;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0879410109004;Chris John;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0879410109005;Tom Schuenke;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0879410109006;Daniel Smith;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0879410109007;Nick Benson;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0879410109008;Vince Workman;1010;Council Member (Burnsville) (Elect 2);19;08794;
+0937010109001;Andrew Maher;1010;Council Member (Cambridge) (Elect 2);30;09370;
+0937010109002;Aaron Berg;1010;Council Member (Cambridge) (Elect 2);30;09370;
+0937010109003;William Dordal;1010;Council Member (Cambridge) (Elect 2);30;09370;
+0937010109004;Tom Schibilla;1010;Council Member (Cambridge) (Elect 2);30;09370;
+0937010109005;Ronda Szlavich;1010;Council Member (Cambridge) (Elect 2);30;09370;
+0937010109006;Joe Morin;1010;Council Member (Cambridge) (Elect 2);30;09370;
+0937010109007;Bob Shogren;1010;Council Member (Cambridge) (Elect 2);30;09370;
+0982040109001;Mason Henry;4010;Special Election for Town Supervisor Seat 1 (Canton Township);23;09820;
+1138610019001;Marty Halverson;1001;Mayor (Chisholm);69;11386;
+1138610019002;Brandan L. Fiedler;1001;Mayor (Chisholm);69;11386;
+1138610019003;Travis Vake;1001;Mayor (Chisholm);69;11386;
+1138610019004;Joy Frazier;1001;Mayor (Chisholm);69;11386;
+1216010019001;Peter J Erickson;1001;Mayor (Cloquet);09;12160;
+1216010019002;Dave Hallback;1001;Mayor (Cloquet);09;12160;
+1216010019003;Sheila Lamb;1001;Mayor (Cloquet);09;12160;
+1311410019001;Jim Shegstad;1001;Mayor (Coon Rapids);02;13114;
+1311410019002;Pat Carlson;1001;Mayor (Coon Rapids);02;13114;
+1311410019003;Thuba Nguyen;1001;Mayor (Coon Rapids);02;13114;
+1728810019001;Mike Maguire;1001;Mayor (Eagan);19;17288;
+1728810019002;Mike Supina;1001;Mayor (Eagan);19;17288;
+1728810019003;Joseph P. Krueger;1001;Mayor (Eagan);19;17288;
+1728810109001;Ross A Christensen;1010;Council Member (Eagan) (Elect 2);19;17288;
+1728810109002;Gary Hansen;1010;Council Member (Eagan) (Elect 2);19;17288;
+1728810109003;Scott Armitage;1010;Council Member (Eagan) (Elect 2);19;17288;
+1728810109004;Jason Narverud;1010;Council Member (Eagan) (Elect 2);19;17288;
+1728810109005;Paul Bakken;1010;Council Member (Eagan) (Elect 2);19;17288;
+2054610109001;Brett Pollard;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109002;Jacob Reed;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109003;Natalie Halverson;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109004;John Rowan;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109005;Jack A. Cluck;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109006;Kameron Gustafson;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109007;Katie Howard;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109008;Lexi Temple;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109009;Paul Wunderlich;1010;Council Member (Faribault) (Elect 3);66;20546;
+2054610109010;Thelma A. Estrada;1010;Council Member (Faribault) (Elect 3);66;20546;
+2281410209001;Emily Villanueva;1020;Council Member Ward 1 (Fridley);02;22814;
+2281410209002;Luke Cardona;1020;Council Member Ward 1 (Fridley);02;22814;
+2281410209003;Abdilahi Jama (AJ);1020;Council Member Ward 1 (Fridley);02;22814;
+2281410229001;Natividad Seefeld;1022;Council Member Ward 2 (Fridley);02;22814;
+2281410229002;Ryan Evanson;1022;Council Member Ward 2 (Fridley);02;22814;
+2281410229003;John Brillhart;1022;Council Member Ward 2 (Fridley);02;22814;
+2879010019001;Marisa Allen;1001;Mayor (Hibbing);69;28790;
+2879010019002;Peter Hyduke;1001;Mayor (Hibbing);69;28790;
+2879010019003;Larry Siebert;1001;Mayor (Hibbing);69;28790;
+2879010109001;Justin Fosso;1010;Council Member At Large (Hibbing);69;28790;
+2879010109002;Tiffany Schleppegrell;1010;Council Member At Large (Hibbing);69;28790;
+2879010109003;Angela Jivery;1010;Council Member At Large (Hibbing);69;28790;
+2879010109004;Mark Borland;1010;Council Member At Large (Hibbing);69;28790;
+3064410149001;Tim Burley;1014;Council Member Seat 1 (Hutchinson);43;30644;
+3064410149002;Morgan Baum;1014;Council Member Seat 1 (Hutchinson);43;30644;
+3064410149003;Hannah Peterson;1014;Council Member Seat 1 (Hutchinson);43;30644;
+3064410159001;Jeremy Lee;1015;Council Member Seat 2 (Hutchinson);43;30644;
+3064410159002;Aaron French;1015;Council Member Seat 2 (Hutchinson);43;30644;
+3064410159003;Dave Sebesta;1015;Council Member Seat 2 (Hutchinson);43;30644;
+3107610109001;Mary T'Kach;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;
+3107610109002;Stephanie Lee Shepherd Sandbeck;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;
+3107610109003;Kevin Sethre;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;
+3107610109004;Tia Salscheider;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;
+3107610109005;Tony Scales;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;
+3107610109006;Craig Kromrey;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;
+3107610109007;Matt Mills;1010;Council Member (Inver Grove Heights) (Elect 2);19;31076;
+3132810019001;Christopher Brooks;1001;Mayor (Isanti);30;31328;
+3132810019002;Luke Merrill;1001;Mayor (Isanti);30;31328;
+3132810019003;Joshua Augustine Lehn;1001;Mayor (Isanti);30;31328;
+3132810019004;Jeff Johnson;1001;Mayor (Isanti);30;31328;
+3856410229001;Mike Davis;1022;Council Member Ward 2 (Luverne);67;38564;
+3856410229002;Lori Ann Hallstrom;1022;Council Member Ward 2 (Luverne);67;38564;
+3856410229003;Tom Lanoue;1022;Council Member Ward 2 (Luverne);67;38564;
+3987810019001;Julia Hamann;1001;Mayor (Mankato);07;39878;
+3987810019002;Toby Leonard;1001;Mayor (Mankato);07;39878;
+3987810019003;Najwa Massad;1001;Mayor (Mankato);07;39878;
+4038210019001;Marylee Abrams;1001;Mayor (Maplewood);62;40382;
+4038210019002;Chonburi Lee;1001;Mayor (Maplewood);62;40382;
+4038210019003;Diana Longrie;1001;Mayor (Maplewood);62;40382;
+4562810129001;Brock Ray;1012;Special Election for Council Member (New Hope);27;45628;
+4562810129002;Mark Wagner;1012;Special Election for Council Member (New Hope);27;45628;
+4562810129003;Rachelle Hamilton;1012;Special Election for Council Member (New Hope);27;45628;
+4692410109001;Katy Vondrasek;1010;Council Member At Large (Northfield);66;46924;
+4692410109002;Thor Keilen;1010;Council Member At Large (Northfield);66;46924;
+4692410109003;Adam Wale;1010;Council Member At Large (Northfield);66;46924;
+4692410269001;Peder Jothen;1026;Council Member Ward 4 (Northfield);66;46924;
+4692410269002;Dave "Superdave" Juntunen;1026;Council Member Ward 4 (Northfield);66;46924;
+4692410269003;James Clinton;1026;Council Member Ward 4 (Northfield);66;46924;
+5302610109001;Justin Dahl;1010;Council Member At Large (Ramsey);02;53026;
+5302610109002;Debra Musgrove;1010;Council Member At Large (Ramsey);02;53026;
+5302610109003;Kelly Muchowski;1010;Council Member At Large (Ramsey);02;53026;
+5421410109001;Sharon Christensen;1010;Council Member At Large (Richfield);27;54214;
+5421410109002;Emily - Em - Antin;1010;Council Member At Large (Richfield);27;54214;
+5421410109003;Aaron McKain;1010;Council Member At Large (Richfield);27;54214;
+5488010019001;Jess Garcia;1001;Mayor (Rochester);55;54880;
+5488010019002;Molly Dennis;1001;Mayor (Rochester);55;54880;
+5488010019003;Joe Powers;1001;Mayor (Rochester);55;54880;
+5488010019004;Walé Elegbede;1001;Mayor (Rochester);55;54880;
+5488010019005;Axe Abdimajid Ahmed;1001;Mayor (Rochester);55;54880;
+5488010019006;Jerrod Lucker;1001;Mayor (Rochester);55;54880;
+5488010019007;Benjamin Zastrow;1001;Mayor (Rochester);55;54880;
+5488010019008;Ayub HajiOmar;1001;Mayor (Rochester);55;54880;
+5488010289001;Ruchi Gupta;1028;Council Member District 5 (Rochester);55;54880;
+5488010289002;Shaun C. Palmer;1028;Council Member District 5 (Rochester);55;54880;
+5488010289003;Acacia Ward;1028;Council Member District 5 (Rochester);55;54880;
+5518610109001;Matthew Nakajima Finn;1010;Council Member (Rogers) (Elect 2);27;55186;
+5518610109002;Adam Hunt;1010;Council Member (Rogers) (Elect 2);27;55186;
+5518610109003;Rick Ihli;1010;Council Member (Rogers) (Elect 2);27;55186;
+5518610109004;Ashraf Wahba;1010;Council Member (Rogers) (Elect 2);27;55186;
+5518610109005;John Patrick Dierberger;1010;Council Member (Rogers) (Elect 2);27;55186;
+5518610109006;Christian Grams;1010;Council Member (Rogers) (Elect 2);27;55186;
+5585210019001;Dan Roe;1001;Mayor (Roseville);62;55852;
+5585210019002;Matthew Drwall;1001;Mayor (Roseville);62;55852;
+5585210019003;Roger B. Hess Jr.;1001;Mayor (Roseville);62;55852;
+5585210109001;Rebecca Carlson;1010;Council Member (Roseville) (Elect 2);62;55852;
+5585210109002;Bruce K. Bester;1010;Council Member (Roseville) (Elect 2);62;55852;
+5585210109003;Wayne Groff;1010;Council Member (Roseville) (Elect 2);62;55852;
+5585210109004;Erik Noren;1010;Council Member (Roseville) (Elect 2);62;55852;
+5585210109005;Cassie Iverson;1010;Council Member (Roseville) (Elect 2);62;55852;
+5585210109006;Kevin Nicholson;1010;Council Member (Roseville) (Elect 2);62;55852;
+5585210109007;Siafa Barclay;1010;Council Member (Roseville) (Elect 2);62;55852;
+5585210109008;Alexis Cran;1010;Council Member (Roseville) (Elect 2);62;55852;
+5689610219001;Charlie Hobbs;1021;Special Election for Council Member Ward 1 (St. Cloud);73;56896;
+5689610219002;Dave Masters;1021;Special Election for Council Member Ward 1 (St. Cloud);73;56896;
+5689610219003;Dreyton Nichols;1021;Special Election for Council Member Ward 1 (St. Cloud);73;56896;
+5689610279001;Joe Baratta;1027;Special Election for Council Member Ward 4 (St. Cloud);73;56896;
+5689610279002;Zak X;1027;Special Election for Council Member Ward 4 (St. Cloud);73;56896;
+5689610279003;Craig Heurung;1027;Special Election for Council Member Ward 4 (St. Cloud);73;56896;
+5689610279004;Amaan Abdi;1027;Special Election for Council Member Ward 4 (St. Cloud);73;56896;
+5695010019001;Mark Vogel;1001;Mayor (St. Francis);02;56950;
+5695010019002;Sarah Udvig;1001;Mayor (St. Francis);02;56950;
+5695010019003;Aaron Hill;1001;Mayor (St. Francis);02;56950;
+5695010109001;Tina Carroll;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;
+5695010109002;Kevin Robinson;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;
+5695010109003;Mike Rodger;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;
+5695010109004;Denny Christenson;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;
+5695010109005;MaraLynn Kubacki;1010;Council Member At Large (St. Francis) (Elect 2);02;56950;
+6149210109001;Gusta G. Carr;1010;Council Member (South St. Paul) (Elect 3);19;61492;
+6149210109002;Joseph Kaliszewski;1010;Council Member (South St. Paul) (Elect 3);19;61492;
+6149210109003;Tyler C. Fehrman;1010;Council Member (South St. Paul) (Elect 3);19;61492;
+6149210109004;Matthew Thompson;1010;Council Member (South St. Paul) (Elect 3);19;61492;
+6149210109005;Daniel Nundahl;1010;Council Member (South St. Paul) (Elect 3);19;61492;
+6149210109006;Margaret Durenberger;1010;Council Member (South St. Paul) (Elect 3);19;61492;
+6149210109007;Brian Ducklinsky;1010;Council Member (South St. Paul) (Elect 3);19;61492;
+6210410109001;Brand Ingalls;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;
+6210410109002;Greg Melartin;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;
+6210410109003;Luan R. Ruesink;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;
+6210410109004;Brent Allen Kohn;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;
+6210410109005;Brent Eisenman;1010;Council Member At Large (Spring Valley) (Elect 2);23;62104;
+7042010019001;Rollie Nissen;1001;Mayor (Willmar);34;70420;
+7042010019002;Sarah Rose Vasquez;1001;Mayor (Willmar);34;70420;
+7042010019003;Justin Ask;1001;Mayor (Willmar);34;70420;
+7042010019004;Zeke Dahl;1001;Mayor (Willmar);34;70420;
+0000150009001;Christin Crabtree;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001
+0000150009002;Stephanie Johnson;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001
+0000150009003;Clifton "CJ" Henderson;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001
+0000150009004;Collin Beachy;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001
+0000150009005;Michael Baskins;5000;School Board Member At Large (SSD #1) (Elect 2);27;;0001
+0003850009001;Tina Stately;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009002;Dustin Thunder-Harris;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009003;Nicole Desjarlait;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009004;Jennifer Schoenborn;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009005;Vestanna Cook;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009006;Ryan Holthusen;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009007;Sharon Kingbird;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009008;Ron Lussier;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009009;Robert Pemberton Sr;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009010;Deanna K Lasley;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009011;Christopher Jourdain;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009012;Linda S. Perkins;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009013;Fawn Beaulieu;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0003850009014;Deanna Pemberton;5000;School Board Member At Large (ISD #38) (Elect 4);04;;0038
+0020650069001;Laura Knudsen;5006;School Board Member Position 4 (ISD #206);21;;0206
+0020650069002;Wendy Hoff;5006;School Board Member Position 4 (ISD #206);21;;0206
+0020650069003;Sarah Moore;5006;School Board Member Position 4 (ISD #206);21;;0206
