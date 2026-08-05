@@ -229,7 +229,7 @@ office_ids <- c("0333")
 precincts(office_ids,"rsa","R", url)
 
 office_ids <- c("0166") 
-precincts(office_ids,"rs46","DFL", url)
+precincts(office_ids,"ds46","DFL", url)
 
 office_ids <- c("0405") 
 precincts(office_ids,"hennepin","NP", url)

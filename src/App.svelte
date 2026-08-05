@@ -15,13 +15,8 @@
 
   const baseUrl = 'https://static.startribune.com/news/projects/all/elex26_primary/index.html';
 
-  // GOP races get shading 4, DFL races get shading 5, based on office code prefix (r.../d...)
   $: selectedRace = elections.find((e) => String(e.index) === String(district));
-  $: shading = selectedRace?.office?.startsWith('r')
-    ? '4'
-    : selectedRace?.office?.startsWith('d')
-      ? '5'
-      : '0';
+  $: shading = selectedRace?.shade ?? '0';
 
   // Reactively rebuild the draft URL any time a param changes
   $: draftUrl = (() => {

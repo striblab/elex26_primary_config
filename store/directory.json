@@ -1,21 +1,21 @@
 {"races":[
-{"index":0,"office":"rgov","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rgov-results-geo.json","overlay":"counties.json","name":"GOP Gov Primary"},
-{"index":1,"office":"dgov","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dgov-results-geo.json","overlay":"counties.json","name":"DFL Gov Primary"},
+{"index":0,"office":"rgov","shade":"4","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rgov-results-geo.json","overlay":"counties.json","name":"GOP Gov Primary"},
+{"index":1,"office":"dgov","shade":"5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dgov-results-geo.json","overlay":"counties.json","name":"DFL Gov Primary"},
 
-{"index":2,"office":"rsen","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rsen-results-geo.json","overlay":"counties.json","name":"GOP Sen Primary"},
-{"index":3,"office":"dsen","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dsen-results-geo.json","overlay":"counties.json","name":"DFL Sen Primary"},
+{"index":2,"office":"rsen","shade":"4","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rsen-results-geo.json","overlay":"counties.json","name":"GOP Sen Primary"},
+{"index":3,"office":"dsen","shade":"5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dsen-results-geo.json","overlay":"counties.json","name":"DFL Sen Primary"},
 
-{"index":4,"office":"dcd2","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dcd2-results-geo.json","overlay":"congress2022.json","name":"DFL CD2 Primary"},
+{"index":4,"office":"dcd2","shade":"5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dcd2-results-geo.json","overlay":"congress2022.json","name":"DFL CD2 Primary"},
 
-{"index":5,"office":"dcd5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dcd5-results-geo.json","overlay":"congress2022.json","name":"DFL CD5 Primary"},
+{"index":5,"office":"dcd5","shade":"5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dcd5-results-geo.json","overlay":"congress2022.json","name":"DFL CD5 Primary"},
 
-{"index":6,"office":"dcd8","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dcd8-results-geo.json","overlay":"congress2022.json","name":"DFL CD8 Primary"},
+{"index":6,"office":"dcd8","shade":"5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"dcd8-results-geo.json","overlay":"congress2022.json","name":"DFL CD8 Primary"},
 
-{"index":7,"office":"rsos","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rsos-results-geo.json","overlay":"counties.json","name":"GOP Secretary of State Primary"},
+{"index":7,"office":"rsos","shade":"4","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rsos-results-geo.json","overlay":"counties.json","name":"GOP Secretary of State Primary"},
 
-{"index":8,"office":"rsa","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rsa-results-geo.json","overlay":"counties.json","name":"GOP State Auditor Primary"},
+{"index":8,"office":"rsa","shade":"4","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rsa-results-geo.json","overlay":"counties.json","name":"GOP State Auditor Primary"},
 
-{"index":9,"office":"rs46","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"rs46-results-geo.json","overlay":"senate2022.json","name":"GOP State Senate District 46 Primary"},
+{"index":9,"office":"ds46","shade":"5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"ds46-results-geo.json","overlay":"senate2022.json","name":"GOP State Senate District 46 Primary"},
 
-{"index":10,"office":"hennepin","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"hennepin-results-geo.json","overlay":"counties.json","name":"Hennepin County Sheriff Primary"}
+{"index":10,"office":"hennepin","shade":"5","district":"0","latitude":46.607469,"longitude":-94.351646,"precincts":"hennepin-results-geo.json","overlay":"counties.json","name":"Hennepin County Sheriff Primary"}
 ]}
