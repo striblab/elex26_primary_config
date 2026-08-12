@@ -1,3 +1,0 @@
-MN;;;0332;Secretary of State;;0301;Wendy Phillips;;;R;4105;4105;2069267;50.13;4127739
-MN;;;0332;Secretary of State;;0302;Tad Jude;;;R;4105;4105;2058472;49.87;4127739
-MN;;;0332;Secretary of State;;0401;Steve Simon;;;DFL;4105;4105;2057316;100.00;2057316
