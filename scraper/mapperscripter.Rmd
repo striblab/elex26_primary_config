@@ -35,7 +35,7 @@ moveGeoJSONFiles <- function(office_id) {
   source_directory <- paste0(office_id, "/")
   
   # Define the destination directory
-  destination_directory <- "/Users/hargaja/Desktop/workspace/redboard/2/20260812-primary26.gov/public/data/"
+  destination_directory <- "output"
   
   # Check if the source directory exists
   if (!dir.exists(source_directory)) {
@@ -242,8 +242,8 @@ precincts(office_ids,"hennepin","NP", url)
 ```{r}
 
 # Define the source and destination directories
-source_directory <- "/Users/hargaja/Desktop/workspace/redboard/2/20260812-primary26/public/data"
-destination_directory <- "/Users/hargaja/Desktop/workspace/redboard/2/elex26_primary_config/store"
+source_directory <- "output"
+destination_directory <- "config"
 
 # List all files in the source directory
 files <- list.files(path = source_directory, full.names = TRUE)
