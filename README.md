@@ -1,12 +1,5 @@
 # Minnesota primaries 2026 precinct map generator
 
-## Run the R script
-
-
-
-## Review the outputs
-
-
 
 ## Dataviz generation
 

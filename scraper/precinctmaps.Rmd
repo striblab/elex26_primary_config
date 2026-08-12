@@ -203,7 +203,7 @@ moveGeoJSONFiles(office)
 #RUN PRECINCTS
 ```{r}
 
-url <- "https://striblab.github.io/elex26_primary_config/dist/allracesbyprecinct.txt"
+url <- "https://electionresultsfiles.sos.mn.gov/20260811/allracesbyprecinct.txt"
 
 office_ids <- c("0331") 
 precincts(office_ids,"rgov","R", url)

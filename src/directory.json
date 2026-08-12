@@ -17,5 +17,5 @@
 
 {"index":9,"office":"ds46","shade":"5","district":"46","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/ds46-results-geo.json","overlay":"senate2022.json","name":"DFL State Senate District 46 Primary","csv":"https://striblab.github.io/elex26_primary_config/store/ds46-results-geo.csv"},
 
-{"index":10,"office":"dhennepin","shade":"5","district":"27","latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/hennepin-results-geo.json","overlay":"counties.json","name":"Hennepin County Attorney Primary","csv":"https://striblab.github.io/elex26_primary_config/store/hennepin-results-geo.csv"}
+{"index":10,"office":"dhennepin","shade":"5","district":27,"latitude":46.607469,"longitude":-94.351646,"precincts":"https://striblab.github.io/elex26_primary_config/store/hennepin-results-geo.json","overlay":"counties.json","name":"Hennepin County Attorney Primary","csv":"https://striblab.github.io/elex26_primary_config/store/hennepin-results-geo.csv"}
 ]}
